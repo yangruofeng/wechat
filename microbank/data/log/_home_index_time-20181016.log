@@ -1,0 +1,2361 @@
+--181016 122738: 1.7180979251862 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 122738: 2.0641191005707 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 122739: 1.3570780754089 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 122741: 1.4060809612274 - localhost/microbank_tim/microbank/entry_desktop/index.php?act=login&op=loginOut on ::1
+
+
+--181016 122745: 2.6081490516663 - localhost/microbank_tim/microbank/api/v1/qrcode.image.create.php?content=http%3A%2F%2Flocalhost%2Fmicrobank_tim%2Fmicrobank%2Fdata%2Fdownloads%2Fsmarithiesak-member%2F05925919996140104.apk on ::1
+
+
+--181016 122745: 2.6111488342285 - localhost/microbank_tim/microbank/api/v1/qrcode.image.create.php?content=http%3A%2F%2Flocalhost%2Fmicrobank_tim%2Fmicrobank%2Fdata%2Fdownloads%2Fcredit_officer%2F05929120100300317.apk on ::1
+
+
+--181016 122748: 1.2820739746094 - localhost/microbank_tim/microbank/api/v1/login.php on ::1
+user_code=admin&user_password=123456
+
+--181016 122752: 1.3260760307312 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 122752: 1.7340989112854 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 122753: 2.0701179504395 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 122820: 1.2850739955902 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 122834: 1.9331109523773 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"710"}}}}
+
+--181016 122903: 1.2860741615295 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 122918: 1.8211040496826 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"655"}}}}
+
+--181016 122947: 1.8721067905426 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"655"}}}}
+
+--181016 122949: 1.2920730113983 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 123000: 1.9011089801788 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"650"}}}}
+
+--181016 123118: 1.3190748691559 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 123135: 1.4510831832886 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 123140: 1.5490880012512 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"1000650","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 124109: 1.2570719718933 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 124120: 1.8761069774628 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"650"}}}}
+
+--181016 124148: 1.2970740795135 - localhost/microbank_tim/microbank/backoffice/index.php?_c=client&_m=getCheckDetailUrl&yoajax=1 on ::1
+{"param":{"member_id":"650","cert_type":"1","source_mark":"grant_committee"}}
+
+--181016 124151: 1.2720730304718 - localhost/microbank_tim/microbank/backoffice/index.php?_c=client&_m=getCheckDetailUrl&yoajax=1 on ::1
+{"param":{"member_id":"650","cert_type":"1","source_mark":"grant_committee"}}
+
+--181016 124151: 1.2430710792542 - localhost/microbank_tim/microbank/backoffice/index.php?_c=client&_m=getCheckDetailUrl&yoajax=1 on ::1
+{"param":{"member_id":"650","cert_type":"1","source_mark":"grant_committee"}}
+
+--181016 124159: 1.8081028461456 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"650"}}}}
+
+--181016 124223: 1.2870728969574 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 124234: 1.8981091976166 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"hq.credit.list","tpl_dir":"branch_manager","dynamic":{"api":"branch_manager","method":"getCreditGrantList","param":{"pageNumber":1,"pageSize":20,"member_id":"336"}}}}
+
+--181016 124539: 1.7030971050262 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 124539: 2.0471169948578 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 124540: 1.3380770683289 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 124602: 1.3550779819489 - localhost/microbank_tim/microbank/api/v1/officer.login.php on ::1
+user_code=co01&client_type=wap&password=123456
+
+--181016 124602: 1.4220809936523 - . on ::1
+user_code=co01&client_type=wap&password=123456
+
+--181016 130216: 1.3070750236511 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.application.list","tpl_dir":"loan_committee","dynamic":{"api":"loan_committee","method":"getCreditGrantList","param":{"search_text":"","pageNumber":1,"pageSize":20,"verify_state":"new"}}}}
+
+--181016 130226: 1.5120861530304 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 130230: 1.5260879993439 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"1000650","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 140904: 2.0171151161194 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 140904: 1.3560769557953 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 140905: 1.802102804184 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 140925: 1.1320638656616 - localhost/microbank_tim/microbank/api/v1/member.logout.php on ::1
+client_type=wap&member_id=154
+
+--181016 140925: 1.1820678710938 - . on ::1
+
+
+--181016 140936: 1.3890800476074 - localhost/microbank_tim/microbank/api/v1/officer.login.php on ::1
+user_code=co001&client_type=wap&password=123456
+
+--181016 140936: 1.4910850524902 - . on ::1
+user_code=co001&client_type=wap&password=123456
+
+--181016 154708: 1.6510949134827 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 154708: 2.0021150112152 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 154709: 1.3360760211945 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 165453: 1.6610951423645 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--181016 165453: 2.0321159362793 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--181016 165453: 1.3660790920258 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--181016 165459: 1.6140918731689 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165501: 1.6040909290314 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165503: 1.597090959549 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165505: 1.5980908870697 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165507: 1.6090919971466 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165509: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165511: 1.5780899524689 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165513: 1.6860959529877 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165515: 1.721097946167 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165518: 1.2510719299316 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 165518: 1.6590940952301 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165520: 1.6490950584412 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165522: 1.6910970211029 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165524: 1.6880970001221 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165526: 1.6200921535492 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165528: 1.6190931797028 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165529: 1.6240930557251 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165532: 1.6560940742493 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165533: 1.6160931587219 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165536: 1.6530940532684 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165538: 1.6640951633453 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165540: 1.6350929737091 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165542: 1.6430938243866 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165544: 1.7050979137421 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165546: 1.6870958805084 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165548: 1.6580951213837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165550: 1.6470949649811 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165552: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165554: 1.6810958385468 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165556: 1.6540939807892 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165558: 1.6620950698853 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165600: 1.6260931491852 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165602: 1.6350929737091 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165604: 1.6600949764252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165606: 1.65709400177 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165608: 1.7140979766846 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165610: 1.6460950374603 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165612: 1.650093793869 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165614: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165616: 1.6140921115875 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165618: 1.6260931491852 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165620: 1.6310939788818 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165622: 1.6430938243866 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165624: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165626: 1.6850960254669 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165627: 1.4960858821869 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 165628: 1.6360940933228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165630: 1.6720960140228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165632: 1.6980969905853 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165634: 1.635094165802 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165634: 1.4610831737518 - localhost/microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"1000728","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--181016 165636: 1.6650950908661 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165638: 1.5930919647217 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165640: 1.6830959320068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165642: 1.629093170166 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165644: 1.6840960979462 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165646: 1.6130921840668 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165648: 1.564090013504 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165650: 1.7000968456268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165652: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165654: 1.6180920600891 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165656: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165658: 1.663094997406 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165700: 1.616091966629 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165702: 1.6190919876099 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165704: 1.5850908756256 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165706: 1.6060919761658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165708: 1.6510939598083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165710: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165712: 1.6180918216705 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165714: 1.6560950279236 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165716: 1.6950969696045 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165718: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165720: 1.6110920906067 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165722: 1.6640949249268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165724: 1.6120929718018 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165724: 1.2990739345551 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 165726: 1.6500940322876 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165728: 1.6350929737091 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165730: 1.599091053009 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165732: 1.6910960674286 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165734: 1.6680951118469 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165736: 1.5950920581818 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165738: 1.6100919246674 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165740: 1.5970911979675 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165742: 1.605092048645 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165744: 1.5770900249481 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165746: 1.6240928173065 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165748: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165750: 1.6200931072235 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165752: 1.6920959949493 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165754: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165756: 1.6140930652618 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165758: 1.6580951213837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165800: 1.5700898170471 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165802: 1.6180930137634 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165804: 1.6040909290314 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165806: 1.5920910835266 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165808: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165810: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165812: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165814: 1.6180918216705 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165816: 1.5780901908875 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165818: 1.6380929946899 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165820: 1.6050908565521 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165822: 1.629093170166 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165824: 1.6080920696259 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165826: 1.5790898799896 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165828: 1.6280941963196 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165830: 1.6180920600891 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165832: 1.6230928897858 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165834: 1.6090919971466 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165836: 1.6500940322876 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165838: 1.5660898685455 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165840: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165842: 1.6540951728821 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165844: 1.5940909385681 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165846: 1.6380939483643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165848: 1.581090927124 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165850: 1.693097114563 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165852: 1.6200931072235 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165854: 1.611093044281 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165856: 1.6580941677094 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165858: 1.6360938549042 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165900: 1.6100919246674 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165902: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165904: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165906: 1.6940970420837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165908: 1.5920910835266 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165910: 1.6260931491852 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165912: 1.6110928058624 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165914: 1.6340930461884 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165916: 1.6040909290314 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165918: 1.6720960140228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165920: 1.6160922050476 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165922: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165924: 1.599091053009 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165926: 1.6380941867828 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165928: 1.5890910625458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165930: 1.6180920600891 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165932: 1.611093044281 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165934: 1.7050971984863 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165936: 1.6620950698853 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165938: 1.6470949649811 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165940: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165942: 1.6430940628052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165944: 1.6520941257477 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165946: 1.6220932006836 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165948: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165950: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165952: 1.6640949249268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165954: 1.6320931911469 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165956: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 165958: 1.556088924408 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170000: 1.6650950908661 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170002: 1.6970970630646 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170004: 1.6580941677094 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170006: 1.6990969181061 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170008: 1.6300940513611 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170010: 1.7140979766846 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170012: 1.7080969810486 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170014: 1.6130921840668 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170016: 1.5850911140442 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170018: 1.6400938034058 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170020: 1.6080920696259 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170022: 1.6680958271027 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170024: 1.6840960979462 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170026: 1.6400938034058 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170028: 1.8441059589386 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170030: 1.6560950279236 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170032: 1.5780899524689 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170034: 1.5740900039673 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170036: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170038: 1.809103012085 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170040: 1.7140979766846 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170042: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170044: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170046: 1.6130931377411 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170048: 1.6260929107666 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170050: 1.5770900249481 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170052: 1.6740958690643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170054: 1.6530938148499 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170056: 1.6830959320068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170058: 1.6550951004028 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170100: 1.6580948829651 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170102: 1.7070970535278 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170104: 1.5870909690857 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170106: 1.6090919971466 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170108: 1.8011031150818 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170110: 1.5900909900665 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170112: 1.5720891952515 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170114: 1.6880960464478 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170116: 1.6550948619843 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170118: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170120: 1.6260931491852 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170122: 1.7020971775055 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170124: 1.6010918617249 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170126: 1.6500940322876 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170128: 1.5830910205841 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170130: 1.6000919342041 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170132: 1.7190980911255 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170133: 1.321074962616 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170134: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170136: 1.605092048645 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170138: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170140: 1.6230928897858 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170142: 1.6050908565521 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170144: 1.6830971240997 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170146: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170148: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170150: 1.6030910015106 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170152: 1.6720950603485 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170154: 1.6330940723419 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170156: 1.6120920181274 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170158: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170200: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170202: 1.6010909080505 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170204: 1.6580951213837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170206: 1.6400940418243 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170208: 1.6150920391083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170210: 1.64009308815 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170212: 1.6070921421051 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170214: 1.7110979557037 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170216: 1.6350939273834 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170218: 1.6270928382874 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170220: 1.6330931186676 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170222: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170224: 1.752100944519 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170226: 1.5660898685455 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170228: 1.6150920391083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170230: 1.6140918731689 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170232: 1.6230931282043 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170234: 1.6490948200226 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170236: 1.6560940742493 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170238: 1.5990920066833 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170240: 1.65709400177 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170242: 1.7060968875885 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170244: 1.6360938549042 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170246: 1.7320990562439 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170248: 1.6120917797089 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170250: 1.5950911045074 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170252: 1.5490891933441 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170254: 1.6880970001221 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170256: 1.6580951213837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170258: 1.6610951423645 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170300: 1.6540949344635 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170302: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170304: 1.6730961799622 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170306: 1.6160929203033 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170308: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170310: 1.7861020565033 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170312: 1.6240930557251 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170314: 1.7320990562439 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170316: 1.6350929737091 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170318: 1.6140921115875 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170320: 1.6360940933228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170322: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170324: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170326: 1.6480941772461 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170328: 1.6980979442596 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170330: 1.6430938243866 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170332: 1.6510939598083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170334: 1.6590950489044 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170336: 1.6480941772461 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170338: 1.6960968971252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170340: 1.6590950489044 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170342: 1.5700898170471 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170344: 1.6070919036865 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170346: 1.7811009883881 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170348: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170350: 1.9851138591766 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170352: 1.6940970420837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170354: 1.5880908966064 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170356: 1.6070921421051 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170358: 1.7160980701447 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170400: 1.6490938663483 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170402: 1.8321049213409 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170404: 1.6120917797089 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170406: 1.5530889034271 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170408: 1.5520889759064 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170410: 1.7080979347229 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170412: 1.598091840744 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170414: 1.5940909385681 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170416: 1.6510949134827 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170418: 1.6210927963257 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170420: 1.7190978527069 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170421: 1.2920742034912 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170422: 1.6230928897858 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170424: 1.7731018066406 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170426: 1.7330989837646 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170428: 1.6060919761658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170430: 1.6900970935822 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170432: 1.6400940418243 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170434: 1.5850901603699 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170436: 1.6420941352844 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170438: 1.7220978736877 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170440: 1.6770958900452 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170442: 1.605092048645 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170444: 1.6360929012299 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170446: 1.9041090011597 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170447: 1.4450831413269 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170448: 1.8251039981842 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170451: 1.552089214325 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170452: 1.5460889339447 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170454: 1.5460879802704 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170456: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170458: 1.5740900039673 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170500: 1.5510880947113 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170502: 1.5600888729095 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170504: 1.7671020030975 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170506: 1.5840909481049 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170508: 1.5560891628265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170510: 1.6010921001434 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170512: 1.6130919456482 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170514: 1.6190929412842 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170516: 1.5450880527496 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170518: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170520: 1.5800898075104 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170522: 1.5790910720825 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170524: 1.5720901489258 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170526: 1.6310930252075 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170528: 1.6160931587219 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170530: 1.6190929412842 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170532: 1.5850899219513 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170534: 1.6010909080505 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170536: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170538: 1.6540949344635 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170540: 1.646094083786 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170542: 1.6320931911469 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170544: 1.6900970935822 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170546: 1.5680899620056 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170548: 1.6200919151306 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170550: 1.5700891017914 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170552: 1.6550948619843 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170554: 1.7300989627838 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170556: 1.6070919036865 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170558: 1.7050979137421 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170600: 1.728098154068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170602: 1.727098941803 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170604: 1.6870970726013 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170606: 1.5650889873505 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170608: 1.5990908145905 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170610: 1.96311211586 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170610: 1.6090929508209 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170612: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170614: 1.7250990867615 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170615: 1.2790729999542 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170616: 1.575089931488 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170618: 1.5910909175873 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170620: 1.539088010788 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170622: 1.597090959549 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170624: 1.6070921421051 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170626: 1.6420941352844 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170628: 1.5830898284912 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170630: 1.7010970115662 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170632: 1.6830961704254 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170634: 1.6300928592682 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170636: 1.6280927658081 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170638: 1.5930910110474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170640: 1.6520938873291 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170642: 1.6710960865021 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170644: 1.6230931282043 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170646: 1.5850908756256 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170648: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170650: 1.6760959625244 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170652: 1.6580951213837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170654: 1.6360931396484 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170656: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170658: 1.7180979251862 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170700: 1.6490950584412 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170702: 1.5490880012512 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170704: 1.5770900249481 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170706: 1.6510939598083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170708: 1.6660950183868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170710: 1.7110979557037 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170712: 1.8891079425812 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170712: 1.3220751285553 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 170714: 1.5740900039673 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170716: 1.6300928592682 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170718: 1.5480890274048 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170720: 1.6080918312073 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170722: 1.6170928478241 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170724: 1.6420938968658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170726: 1.6210927963257 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170728: 1.6340930461884 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170730: 1.5920910835266 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170734: 1.6040921211243 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170734: 1.6090919971466 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170736: 1.6650950908661 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170738: 1.5980908870697 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170740: 1.6740958690643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170742: 1.6930968761444 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170744: 1.5980911254883 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170746: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170748: 1.628093957901 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170750: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170752: 1.6170928478241 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170754: 1.6000919342041 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170756: 1.6920969486237 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170758: 1.6150929927826 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170800: 1.6350939273834 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170802: 1.5970921516418 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170804: 1.6420938968658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170806: 1.6200931072235 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170808: 1.5860910415649 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170810: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170812: 1.6490938663483 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170814: 1.6680960655212 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170816: 1.6280930042267 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170818: 1.5970919132233 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170820: 1.6520941257477 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170822: 1.6300930976868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170824: 1.6210920810699 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170826: 1.5850908756256 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170828: 1.5870909690857 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170830: 1.5900909900665 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170832: 1.6030910015106 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170834: 1.64009308815 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170836: 1.6420938968658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170838: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170840: 1.6660950183868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170842: 1.6330940723419 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170844: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170846: 1.6720948219299 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170848: 1.6060919761658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170850: 1.6370930671692 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170852: 1.6190931797028 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170854: 1.6410930156708 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170856: 1.6450941562653 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170858: 1.6010921001434 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170900: 1.6100919246674 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170902: 1.6380939483643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170904: 1.6670949459076 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170906: 1.6270928382874 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170908: 1.6260929107666 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170910: 1.6780960559845 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170912: 1.6920971870422 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170914: 1.628093957901 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170916: 1.6890959739685 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170918: 1.6000909805298 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170920: 1.6660950183868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170922: 1.6840958595276 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170924: 1.6730959415436 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170926: 1.5900912284851 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170928: 1.6380939483643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170930: 1.6870970726013 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170932: 1.6830961704254 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170934: 1.6600952148438 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170936: 1.6020920276642 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170938: 1.64009308815 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170940: 1.6830961704254 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170942: 1.6280930042267 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170944: 1.915109872818 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170946: 1.6040918827057 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170948: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170950: 1.6660950183868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170952: 1.6730959415436 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170954: 1.6680951118469 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170956: 1.7110979557037 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 170958: 1.6380939483643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171000: 1.6550941467285 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171002: 1.5990908145905 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171004: 1.6180930137634 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171006: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171008: 1.693097114563 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171010: 1.7230980396271 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171012: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171014: 1.6850960254669 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171016: 1.6540951728821 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171018: 1.7801020145416 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171020: 1.5950920581818 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171022: 1.6830968856812 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171024: 1.5880908966064 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171026: 1.7601001262665 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171028: 1.6030919551849 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171030: 1.6290941238403 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171032: 1.6120929718018 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171034: 1.7290990352631 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171036: 1.6090919971466 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171038: 1.7040979862213 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171040: 1.6500949859619 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171042: 1.6870968341827 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171044: 1.6540951728821 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171046: 1.823105096817 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171048: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171050: 1.8301048278809 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171052: 1.6160929203033 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171054: 1.5980908870697 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171056: 1.6310930252075 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171058: 1.669095993042 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171100: 1.682097196579 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171102: 1.6640949249268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171104: 1.7120978832245 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171106: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171108: 1.6760959625244 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171110: 1.6360940933228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171112: 1.6420938968658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171114: 1.7210988998413 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171116: 1.67409491539 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171118: 1.6750960350037 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171120: 1.6500940322876 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171122: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171124: 1.6920969486237 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171126: 1.6950960159302 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171128: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171130: 1.6790962219238 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171132: 1.6930968761444 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171134: 1.6840960979462 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171136: 1.6490941047668 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171138: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171140: 1.6020920276642 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171142: 1.6170921325684 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171144: 1.6160922050476 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171146: 1.5640897750854 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171148: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171150: 1.6200931072235 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171152: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171154: 1.6060910224915 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171156: 1.6170928478241 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171158: 1.7651011943817 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171200: 1.7070980072021 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171202: 1.6600949764252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171204: 1.8061029911041 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171206: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171208: 1.6510939598083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171210: 1.6900970935822 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171212: 1.652095079422 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171214: 1.6430940628052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171216: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171218: 1.6430938243866 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171220: 1.6010909080505 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171222: 1.6940970420837 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171224: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171226: 1.6760959625244 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171228: 1.6420938968658 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171230: 1.6280930042267 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171232: 1.6350929737091 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171234: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171236: 1.6300940513611 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171238: 1.5570888519287 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171240: 1.6310927867889 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171242: 1.6260929107666 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171244: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171244: 1.3540768623352 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171246: 1.6910970211029 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171248: 1.6180930137634 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171250: 1.6040918827057 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171252: 1.6260929107666 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171254: 1.9231100082397 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171255: 1.3260760307312 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171256: 1.7290980815887 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171258: 1.5650901794434 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171300: 1.6300928592682 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171302: 1.6710960865021 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171304: 1.6380939483643 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171306: 1.6680960655212 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171308: 1.639093875885 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171310: 1.5950908660889 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171312: 1.6220920085907 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171314: 1.6020910739899 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171316: 1.6230928897858 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171318: 1.6430940628052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171320: 1.5740900039673 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171322: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171324: 1.6170921325684 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171326: 1.5930910110474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171328: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171330: 1.6970970630646 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171332: 1.6270940303802 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171334: 1.663094997406 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171336: 1.6210930347443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171338: 1.5700900554657 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171340: 1.6350939273834 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171342: 1.6300938129425 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171344: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171346: 1.6320941448212 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171348: 1.6040909290314 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171350: 1.6880970001221 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171352: 1.6320929527283 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171354: 1.6640949249268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171356: 1.652095079422 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171358: 1.6100921630859 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171400: 1.6910970211029 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171402: 1.6450939178467 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171404: 1.751100063324 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171406: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171408: 1.687096118927 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171410: 1.6700949668884 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171412: 1.6950969696045 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171414: 1.6010921001434 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171416: 1.6400938034058 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171418: 1.6450939178467 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171420: 1.564090013504 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171420: 1.293074131012 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171422: 1.6150920391083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171424: 1.6700961589813 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171426: 1.6810960769653 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171428: 1.6920959949493 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171430: 1.6580948829651 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171432: 1.6920969486237 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171434: 1.6560940742493 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171436: 1.6390941143036 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171438: 1.5960907936096 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171440: 1.6560950279236 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171442: 1.6770961284637 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171444: 1.6310930252075 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171446: 1.6550951004028 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171448: 1.6500949859619 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171450: 1.5930910110474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171452: 1.6350939273834 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171454: 1.6550941467285 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171456: 1.650093793869 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171458: 1.6140930652618 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171500: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171502: 1.6470949649811 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171504: 1.6110918521881 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171506: 1.6650950908661 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171508: 1.6870970726013 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171510: 1.6470949649811 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171512: 1.6780960559845 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171514: 1.6700959205627 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171516: 1.6310930252075 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171518: 1.7000970840454 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171520: 1.6530950069427 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171522: 1.6610951423645 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171524: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171526: 1.7300989627838 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171528: 1.5930919647217 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171530: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171532: 1.6840970516205 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171534: 1.7421000003815 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171536: 1.6510939598083 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171538: 1.6600949764252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171540: 1.7470998764038 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171542: 1.6500940322876 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171544: 1.5820910930634 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171546: 1.6440939903259 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171548: 1.6660959720612 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171550: 1.728098154068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171552: 1.6150918006897 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171554: 1.6510949134827 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171556: 1.6430940628052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171558: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171600: 1.6330931186676 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171602: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171604: 1.7290987968445 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171604: 1.3400769233704 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171606: 1.6850960254669 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171608: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171610: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171612: 1.6310930252075 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171614: 1.5770900249481 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171616: 1.7090978622437 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171618: 1.5770900249481 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171620: 1.6210920810699 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171622: 1.5940909385681 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171624: 1.6370940208435 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171626: 1.6290929317474 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171628: 1.6570949554443 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171630: 1.6120920181274 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171632: 1.6660950183868 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171634: 1.6800971031189 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171636: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171638: 1.6480948925018 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171640: 1.6710960865021 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171642: 1.6230931282043 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171644: 1.6620950698853 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171646: 1.6270930767059 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171648: 1.6070919036865 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171650: 1.6230931282043 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171652: 1.6270928382874 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171654: 1.6550948619843 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171656: 1.6120920181274 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171658: 1.6430938243866 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171700: 1.6000919342041 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171702: 1.6250929832458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171704: 1.622092962265 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171706: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171708: 1.6280930042267 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171710: 1.6470940113068 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171712: 1.6600949764252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171714: 1.669095993042 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171716: 1.628093957901 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171718: 1.6670958995819 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171720: 1.6070909500122 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171722: 1.5910909175873 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171724: 1.6100931167603 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171726: 1.6230928897858 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171728: 1.7410988807678 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171730: 1.5810899734497 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171732: 1.5780909061432 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171734: 1.6360938549042 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171736: 1.6070921421051 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171738: 1.6190919876099 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171740: 1.6900970935822 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171740: 1.335077047348 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171742: 1.6620948314667 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171744: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171746: 1.5970919132233 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171748: 1.6020920276642 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171750: 1.6910960674286 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171752: 1.6640949249268 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171754: 1.6200931072235 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171756: 1.6100919246674 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171758: 1.7520999908447 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171800: 1.5760898590088 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171802: 1.6610949039459 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171804: 1.6410939693451 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171806: 1.6390931606293 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171807: 1.3220760822296 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171808: 1.6040909290314 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171810: 1.6340939998627 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171811: 1.2470719814301 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171812: 1.6130921840668 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171814: 1.6480951309204 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171816: 1.7050979137421 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171816: 1.2860732078552 - localhost/microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1 on ::1
+{"param":{"tpl":"credit.history.list","tpl_dir":"member_credit_v2","dynamic":{"api":"member_credit","method":"getCreditHistoryList","param":{"pageNumber":1,"pageSize":20}}}}
+
+--181016 171818: 1.7560999393463 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171820: 1.727098941803 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171822: 1.629093170166 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171824: 1.5890910625458 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171826: 1.67409491539 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171828: 1.6300928592682 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171830: 1.6570951938629 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171832: 1.5820899009705 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171834: 1.6130928993225 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171836: 1.6360940933228 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171838: 1.6230931282043 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171840: 1.5660891532898 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171842: 1.6920969486237 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171844: 1.6960968971252 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171846: 1.6790959835052 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171848: 1.6860959529877 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171850: 1.5680899620056 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171852: 1.592090845108 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171854: 1.5670890808105 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171856: 1.6930959224701 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+
+--181016 171858: 1.6560950279236 - localhost/microbank_tim/microbank/counter/index.php?_c=entry_index&_m=getTellerBalance&yoajax=1 on ::1
+{}
+

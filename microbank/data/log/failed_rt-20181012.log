@@ -1,0 +1,6 @@
+--181012 092556: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Please Take photo for <kbd>Contract Photo<\/kbd>","DATA":null,"CODE":0}
+--181012 141811: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Receive cash not enough for:<kbd>95 USD <\/kbd> <kbd>25 KHR <\/kbd>","DATA":null,"CODE":11059}
+--181012 150747: /microbank_tim/microbank/counter/index.php?_c=cash_on_hand&_m=transferToCt&yoajax=1
+{"STS":false,"MSG":"Transfer FailureUser locked","DATA":null,"CODE":0}

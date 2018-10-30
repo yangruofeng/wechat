@@ -1,0 +1,4 @@
+<?php
+##在生产环境中修改它，比如说 prod1
+
+$_switch_conf="conf.tim";

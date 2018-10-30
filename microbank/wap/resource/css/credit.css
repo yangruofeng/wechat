@@ -1,0 +1,1002 @@
+/* credit */
+.credit-wrap {
+  margin-bottom: 3rem;
+}
+.credit-basic {
+  background-color: #66165d;
+  padding-top: 3rem;
+}
+.credit-bar {
+  position: relative;
+  width: 10rem;
+  height: 9rem;
+  margin: 0 auto;
+  text-align: center;
+  overflow: hidden;
+}
+.line-width {
+  width: .2rem;
+  display: none;
+}
+.dot-width {
+  width: .25rem;
+  display: none;
+}
+.credit-bar .bg {
+  position: absolute;
+  top: .3rem;
+  left: .3rem;
+  width: 9.4rem;
+}
+.credit-bar .dot {
+  display: none;
+  width: .6rem;
+}
+.credit-canvas {
+  width: 10rem;
+  height: 8rem;
+}
+.credit-info {
+  position: absolute;
+  top: 2.4rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: .8rem;
+}
+.credit-info p {
+  color: #fff;
+  font-size: .8rem;
+}
+.credit-info p.b {
+  font-size: 1.4rem;
+  margin: .6rem 0;
+}
+.credit-info p.t {
+  font-size: .7rem;
+  padding: .3rem 0 .1rem;
+}
+.credit-info p.d {
+  font-size: .7rem;
+}
+.credit-oprt {
+  width: 11rem;
+  margin: 0 auto;
+  padding: .2rem 0 .7rem;
+}
+.oprt-item {
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  width: 5rem;
+  text-align: center;
+  font-size: .7rem;
+  padding: .1rem 0;
+}
+.oprt-item i {
+  margin-right: .2rem;
+}
+.oprt-his {
+  float: left;
+}
+.oprt-help {
+  float: right;
+}
+.withdraw-btn-wrap {
+  padding: .3rem;
+}
+.withdraw-btn .item {
+  width: 49%;
+  text-align: center;
+  background-color: #ffe299;
+  color: #66165d;
+  font-size: .7rem;
+  padding: .6rem 0;
+}
+.withdraw-btn .get-credit {
+  float: left;
+}
+.withdraw-btn .get-money {
+  float: right;
+}
+.withdraw-btn .item img {
+  width: .8rem;
+  vertical-align: middle;
+  margin-top: -.2rem;
+}
+.withdraw-info {
+  background-color: #fff;
+}
+.withdraw-info .item {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.withdraw-info .item.price {
+  line-height: 1rem;
+  position: relative;
+}
+
+.withdraw-info .item.price::after {
+  content: "";
+  position: absolute;
+  top: .65rem;
+  right: -1rem;
+  width: .5rem;
+  height: 0;
+  border-top: .5rem solid transparent;
+  border-bottom: .5rem solid transparent;
+  border-left: .5rem solid #fff;
+}
+.withdraw-info .item.price .content {
+  display: inline-block;
+  position: relative;
+  padding-left: 1.7rem;
+  text-align: left;
+}
+.withdraw-info .item.price img {
+  position: absolute;
+  top: .4rem;
+  left: 0;
+  width: 1.5rem;
+}
+.withdraw-info .item.price .b {
+  color: #66165d;
+  font-size: 1rem;
+  padding-top: .2rem;
+}
+.withdraw-info .item.price .l {
+  font-size: .6rem;
+}
+.withdraw-info .item.price .t {
+  color: #000;
+  font-size: .6rem;
+}
+.withdraw-info .item.btn {
+  background-color: #66165d;
+  color: #fff;
+  padding: .6rem 0;
+  font-size: .7rem;
+
+}
+.cert-wrap .t {
+  color: #666;
+  padding: .3rem;
+}
+.cert-list {
+  line-height: .8rem;
+  display: block;
+}
+.cert-list .item {
+  width: 33.3333%;
+  background-color: #fff;
+  float: left;
+  position: relative;
+  text-align: center;
+  padding: .6rem .2rem;
+}
+.cert-list .item::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1px;
+  height: 100%;
+  background-color: #e6e6e6;
+  display: block;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.cert-list .item:nth-child(4n)::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #e6e6e6;
+  display: block;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.cert-list .item:nth-child(3n)::after {
+  width: 0;
+}
+
+.cert-list .item img {
+  width: 1.5rem;
+}
+.cert-list .item p {
+  color: #333;
+  font-size: .6rem;
+  height: 1.7rem;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  width: 33.3333%;
+}
+.cert-list .item .icon-state {
+  position: absolute;
+  right: .3rem;
+  top: .3rem;
+  width: 1rem;
+}
+.cert-list .item .icon-number {
+  position: absolute;
+  right: .3rem;
+  top: .3rem;
+  display: block;
+  border: 1px solid #FFE299;
+  border-radius: 50%;
+  width: 1rem;
+  height: 1rem;
+  line-height: .8rem;
+  text-align: center;
+  font-size: .6rem;
+}
+.rate-list .title {
+  color: #6f6f6f;
+  font-size: .7rem;
+}
+.rate-list .text {
+  color: #000;
+  font-size: .7rem;
+  font-style: italic;
+}
+/*cerification*/
+.cerification-wrap .id-cert-form .label {
+  width: 12rem;
+  margin-right: .4rem;
+  font-size: .7rem;
+}
+.cerification-wrap .id-cert-form .label::after {
+  content: '';
+  position: absolute;
+  top: .6rem;
+  right: 0;
+  width: 1px;
+  height: 1rem;
+  background-color: #e6e6e6;
+  display: block;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.cerification-wrap .verify-cert-id {
+  background-color: #ffe299;
+  padding: .5rem 1rem;
+  font-size: .7rem;
+  font-weight: 600;
+  border-radius: 8px 8px 0 0;
+}
+.cerification-wrap .cerification-picture {
+  background-color: #fff;
+  text-align: center;
+  font-size: 0;
+}
+.cerification-wrap .cerification-picture .upload-wrap {
+  display: inline-block;
+  font-size: 0;
+  line-height: .8rem;
+  padding: .6rem 0;
+  margin: 0 .8rem;
+}
+.cerification-wrap .cerification-picture .up-btn {
+  position: relative;
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+  font-size: .7rem;
+}
+.cerification-wrap .cerification-picture .upload-input {
+  position: relative;
+  border: 1px #b3b3b3 dashed;
+  border-radius: 2px;
+  width: 100%;
+  height: 5.2rem;
+}
+.cerification-wrap .cerification-picture .icon-upload {
+  margin-top: 1.4rem;
+  width: 2.2rem;
+}
+.cerification-wrap .cerification-picture .input {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cerification-wrap .cerification-picture .up-exam {
+  height: 5.2rem;
+}
+.cerification-wrap .cerification-picture .up-example {
+  width: 48%;
+  float: right;
+  font-size: .7rem;
+}
+.cerification-wrap .cerification-picture .example-pic {
+  width: 100%;
+  height: 100%;
+}
+.cerification-wrap .cerification-picture .name {
+  margin-top: .2rem;
+}
+.cerification-wrap .upload-input .uncheck {
+  height: 100%;
+}
+.cerification-wrap .upload-input .check {
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cerification-wrap .check .cancel-check {
+  color: #FF7F7F;
+  border: 1px solid #FF7F7F;
+  border-radius: 50%;
+  width: 1rem;
+  height: 1rem;
+  line-height: .9rem;
+  display: block;
+  text-align: center;
+  top: -0.3rem;
+  left: -0.3rem;
+  position: absolute;
+  background-color: #fff;
+  z-index: 2;
+}
+.cerification-wrap .upload-input .check img {
+  height: 100%;
+  width: 100%;
+}
+.input-cerification-wrap {
+  padding: .8rem;
+}
+.cerification-input .cerification-item {
+  font-size: .7rem;
+}
+.cerification-input .cerification-item .label {
+  width: 15rem;
+  margin-right: .4rem;
+}
+.cerification-input .cerification-form .label::after {
+  content: " ";
+  position: absolute;
+  top: .6rem;
+  right: 0;
+  width: 1px;
+  height: 1rem;
+  background-color: #ccc;
+}
+.cerification-input .cerification-form .aui-radio {
+  width: .9rem;
+  height: .9rem;
+}
+.cerification-input .cerification-form .radio-label label {
+  line-height: .9rem;
+}
+.input-cerification-wrap .input-cerification-picture .upload-wrap {
+  display: block;
+  width: 12rem;
+  margin: 0 auto;
+}
+.input-cerification-wrap .input-cerification-picture .up-btn {
+  width: 100%;
+  float: left;
+  margin-right: 0;
+}
+.input-cerification-wrap .input-cerification-picture .upload-input {
+  height: 6rem;
+}
+.input-cerification-wrap .input-cerification-picture .icon-upload {
+  margin-top: 1.7rem;
+  width: 2.5rem;
+}
+.input-cerification-wrap .input-cerification-picture .title {
+  text-align: left;
+  font-size: .8rem;
+  padding: .5rem;
+  background-color: #ffe299;
+  color: #333;
+}
+.input-cerification-wrap .input-cerification-picture .name {
+  margin-top: 0;
+  text-align: left;
+  font-size: .6rem;
+  padding: 0 .5rem .5rem .5rem;
+  color: #989898;
+}
+/*cert-check-wrap*/
+.cert-check-wrap {
+  padding: 1rem .8rem;
+  font-size: .7rem;
+}
+.cert-check-wrap .check-pic {
+  position: relative;
+  width: 10rem;
+  margin: 0 auto;
+}
+.cert-check-wrap .check-pic img {
+  width: 100%;
+}
+.cert-check-wrap .check-pic img.icon-state {
+  width: 2.5rem;
+  position: absolute;
+  top: .8rem;
+  right: .8rem;
+}
+.cert-check-wrap .check-tip {
+  text-align: center;
+  padding: .5rem 0;
+}
+.cert-check-wrap .check-tip em {
+  display: block;
+}
+
+/*history*/
+.credit-history-list .title {
+  color: #000;
+  font-size: .7rem;
+}
+/*credit loan*/
+.credit-loan-balance {
+  background-color: #66165d;
+  color: #fff;
+  line-height: 1.5rem;
+  padding: .4rem 1.2rem;
+}
+.credit-loan-balance .b {
+  font-size: 1.6rem;
+}
+.credit-loan-balance .l {
+
+}
+.credit-loan-form {
+  padding: .5rem .7rem;
+}
+.credit-loan-form .aui-list-item {
+  border: 1px solid #e4e4e4;
+  border-radius: 5px;
+  margin-bottom: .2rem;
+}
+.credit-loan-form .label {
+  font-size: .7rem;
+  width: 21rem;
+  margin-right: .4rem;
+}
+.credit-loan-form .label::after {
+  content: " ";
+  position: absolute;
+  top: .6rem;
+  right: 0;
+  width: 1px;
+  height: 1rem;
+  background-color: #ccc;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.credit-loan-form .aui-list-item-input {
+  padding-right: 0;
+}
+.credit-loan-form .input-select i {
+  position: absolute;
+  top: .5rem;
+  right: .4rem;
+  font-size: .6rem;
+}
+.credit-loan-form .input-period select {
+  position: absolute;
+  top: 0;
+  right: .4rem;
+  font-size: .6rem;
+  width: 3rem;
+}
+.credit-loan-form .input-period i {
+  position: absolute;
+  top: .5rem;
+  right: .4rem;
+  font-size: .6rem;
+}
+.credit-loan-form .select-insurance input {
+  padding-right: 1.4rem;
+  text-overflow: ellipsis;
+}
+.insurance-list-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: rgba(0,0,0,.3);
+}
+.insurance-list-wrap .content {
+  background-color: #fff;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: 5px 5px 0 0;
+}
+.insurance-list-wrap .content .title {
+  position: relative;
+  text-align: center;
+  padding: .4rem 0;
+}
+.insurance-list-wrap .content .cancel {
+  color: #ababab;
+  position: absolute;
+  left: .5rem;
+}
+.insurance-list-wrap .content .confirm {
+  color: #2A87FD;
+  position: absolute;
+  right: .5rem;
+}
+.insurance-ul .aui-list-item:after {
+  height: 0;
+}
+.insurance-ul .aui-list-item::before {
+  width: 100%;
+  height: 1px;
+  background-color: #dddddd;
+  display: block;
+  content: '';
+  position: absolute;
+  top: 0;
+  right: auto;
+  bottom: auto;
+  left: 0;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.insurance-ul .aui-list-item {
+  padding-left: 2rem;
+}
+.insurance-ul .insurance-icon {
+  position: absolute;
+  left: 0;
+  top: .7rem;
+  width: 2rem;
+  text-align: center;
+  padding-right: 0;
+  display: block;
+}
+.insurance-list-wrap .item-ck {
+  display: inline-block;
+  width: .9rem;
+  height: .9rem;
+  background: url(../image/ck.png) no-repeat center;
+  background-size: cover;
+}
+.insurance-list-wrap .item-ck.active {
+  background: url(../image/ck-on.png) no-repeat center;
+  background-size: cover;
+}
+.insurance-list-wrap .name {
+  font-size: .7rem;
+}
+.insurance-list-wrap .info {
+  font-size: .7rem;
+  color: #ababab;
+}
+.insurance-list-wrap .info span {
+  float: right;
+}
+.withdraw-detail-wrap .base-info-ul {
+  font-size: .6rem;
+}
+.withdraw-detail-wrap .base-info-ul .aui-list-item:after {
+  height: 0;
+}
+.withdraw-detail-wrap .title {
+  width: 50%;
+}
+.withdraw-detail-wrap .label-on {
+  width: 50%!important;
+  text-align: right;
+  background-color: #ffe299;
+  padding: .25rem .6rem .2rem!important;
+  font-size: .7rem;
+}
+.withdraw-detail-wrap .base-info-more {
+  text-align: right;
+  background-color: #fff;
+  color: #909090;
+  font-size: .7rem;
+  padding: .1rem .7rem .3rem 0;
+}
+.contract-tab .aui-tab-item.aui-active {
+  color: #66165d;
+  border-bottom: 2px solid #66165d;
+}
+.installment-list .inner {
+  min-height: auto;
+}
+.installment-list .installment-item {
+  min-height: auto;
+  color: #000;
+}
+.installment-list .r-amount {
+  float: right;
+}
+.installment-list {
+  font-size: .6rem;
+}
+.confirm-oprt .agree-tip {
+  position: relative;
+  font-size: .6rem;
+  padding-left: 1.8rem;
+}
+.confirm-oprt .agree-tip .item-ck {
+  position: absolute;
+  left: .7rem;
+}
+.confirm-oprt .agree-tip em {
+  color: #66165d;
+}
+.confirm-oprt .item-ck {
+  display: inline-block;
+  width: .8rem;
+  height: .8rem;
+  background: url(../image/ck.png) no-repeat center;
+  background-size: cover;
+}
+.confirm-oprt .item-ck.active {
+  background: url(../image/ck-on.png) no-repeat center;
+  background-size: cover;
+}
+.confirm-oprt .oprt-btn {
+  padding: .7rem;
+}
+.confirm-oprt .oprt-btn .btn {
+  float: left;
+  width: 6rem;
+  text-align: center;
+  padding: .3rem 0;
+  font-size: .7rem;
+  border: 1px solid #66165d;
+  color: #66165d;
+  border-radius: 8px;
+}
+.confirm-oprt .oprt-btn .btn.btn-confirm {
+  float: right;
+  background-color: #66165d;
+  color: #fff;
+}
+.confirm-oprt .oprt-btn .btn.disabled {
+  background-color: #bbb;
+  border: 1px solid #bbb;
+}
+.withdrawal-detail-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  padding: 2rem 1rem;
+  background-color: rgba(0,0,0,.4);
+}
+.withdrawal-detail-wrap .content {
+  background-color: #fff;
+  border-radius: 6px;
+}
+.withdrawal-detail-wrap .content .t {
+  text-align: center;
+  padding: .7rem 0 .3rem;
+  position: relative;
+}
+.withdrawal-detail-wrap .content .close-detail {
+  color: #868585;
+  position: absolute;
+  left: 0;
+  top: .5rem;
+  display: block;
+  width: 2.5rem;
+  text-align: center;
+}
+.withdrawal-detail-wrap .content .close-detail i {
+  font-size: 1.2rem;
+}
+.withdrawal-detail-wrap .content .c {
+  padding: 0 .7rem .7rem;
+}
+.withdrawal-detail-wrap .content p {
+  color: #000;
+  line-height: 1.5rem;
+}
+.withdrawal-detail-wrap .content p em {
+  float: right;
+}
+.withdrawal-detail-wrap .content p.rule {
+  color: #868585;
+  font-size: .6rem;
+  line-height: .8rem;
+}
+/*withdrawal success*/
+.withdraw-success-wrap .tip-wrap {
+  text-align: center;
+  margin-top: 3rem;
+}
+.withdraw-success-wrap .tip-wrap img {
+  width: 3rem;
+}
+.withdraw-success-wrap .tip-wrap p {
+  color: #66165d;
+  font-weight: 600;
+  font-size: .8rem;
+}
+.cert-tip {
+  background-color: #fff;
+  position: relative;
+  padding: .5rem 1.5rem;
+}
+.cert-tip img {
+  width: 1rem;
+  position: absolute;
+  top: .5rem;
+  left: .3rem;
+}
+.cert-tip-ul {
+  font-size: .7rem;
+  color: #000;
+}
+.certtpye-wrap .certtpye-no-content {
+  background-color: #fff;
+  text-align: center;
+  padding: 1rem 0 .2rem;
+}
+.certtpye-wrap .certtpye-no-content img {
+  width: 4rem;
+}
+.certtpye-wrap .certtpye-no-content p {
+  font-size: .7rem;
+  color: #D9D9D9;
+}
+.certtpye-wrap .add-btn {
+  font-size: 0;
+  background-color: #fff;
+  text-align: center;
+  padding: .5rem 0;
+}
+.certtpye-wrap .add-btn span {
+  font-size: .7rem;
+  display: inline-block;
+}
+.certtpye-wrap .add-btn img {
+  width: 1.2rem;
+  margin-right: .3rem;
+  float: left;
+}
+.upload-success {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  background-color: rgba(0,0,0,.5);
+}
+.upload-success .content {
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  padding-bottom: 1rem;
+  margin: 9rem 2.5rem;
+}
+.upload-success .content img {
+  width: 5rem;
+  margin-top: 1rem;
+}
+.upload-success .content .title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+.upload-success .content .tip {
+  color: #e67878;
+}
+.guarantor-tip {
+  color: #999;
+  background-color: #fff;
+  padding: .8rem .6rem;
+  font-size: .7rem;
+}
+.cerification-form .input-select i {
+  position: absolute;
+  top: .5rem;
+  right: .4rem;
+  font-size: .6rem;
+}
+.cerification-form .aui-list-item-input {
+  position: relative;
+}
+.cerification-form .country_code select {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.5rem;
+}
+.cerification-form .country_code i {
+  position: absolute;
+  top: .6rem;
+  left: 2rem;
+}
+.cerification-form .country_code input {
+  padding-left: 3.2rem;
+}
+.certtpye-wrap .relation-oprt {
+  margin-right: .5rem;
+}
+.certtpye-wrap .relation-oprt span {
+  font-size: .7rem;
+  display: inline-block;
+  border: 1px solid #a0a0a0;
+  border-radius: 3px;
+  padding: .2rem .5rem;
+}
+.certtpye-wrap .relation-oprt .accept {
+  margin-bottom: .1rem;
+  color: #dacb1d;
+  border: 1px solid #dacb1d;
+}
+.certtpye-wrap .avatar {
+  width: 4rem;
+}
+.certtpye-wrap .edit-btn {
+  color: #66165D;
+  font-weight: 600;
+  float: right;
+  padding: 0 .5rem;
+}
+.certtpye-wrap .aui-list-img-sm {
+  border-radius: 0;
+}
+.credit-help-wrap {
+  padding: .5rem;
+}
+.credit-help-item {
+  font-size: .7rem;
+  margin-bottom: .7rem;
+}
+.credit-help-item.label {
+  font-weight: 700;
+  color: #66165d;
+}
+.credit-help-item.item {
+  border: 1px solid #66165d;
+  border-radius: 5px;
+  padding: .3rem .5rem;
+}
+.credit-help-item.item span {
+  font-weight: 700;
+  color: #66165d;
+}
+.repayment-base-ul .aui-list-item-title {
+  font-size: .6rem;
+}
+.repayment-base-ul .aui-list-item-title.t-total {
+  color: #000;
+  font-weight: 700;
+}
+.repayment-base-ul .aui-list-item-right.r-total {
+  color: #000;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.repayment-base-ul .aui-list-item-right.r-total em {
+  font-size: .6rem;
+  font-style: italic;
+}
+.repayment-info-ul .label {
+  font-size: .6rem;
+  width: 70%;
+  color: #333;
+}
+.repayment-info-ul .input-select select {
+  font-size: .6rem;
+  color: #333;
+}
+.repayment-info-ul .input-select .aui-icon-down {
+  position: absolute;
+  right: .5rem;
+  top: .7rem;
+  font-size: .7rem!important;
+}
+.repayment-info-ul .input-select .currency {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 3.5rem;
+}
+.repayment-info-ul .input-select input {
+  padding-right: 3rem;
+}
+.repayment-oprt {
+  padding: .5rem;
+}
+.repayment-oprt .tip {
+  font-size: .5rem;
+  text-align: right;
+}
+.repayment-oprt .pending-btn {
+  background-color: #cacaca;
+  color: #333;
+  margin-top: .4rem;
+}
+.pending-repayment-wrap .pending-amount {
+  background: #cc0000;
+  padding: 1.2rem 0 1rem;
+  text-align: center;
+}
+.pending-amount p {
+  color: #fff;
+}
+.pending-amount p.amount {
+  font-size: 1.4rem;
+}
+.pending-amount p em {
+  font-size: .6rem;
+  font-style: italic;
+}
+.pending-repayment-list .title {
+  padding: .4rem .8rem;
+}
+.pending-ul .time {
+  color: #000;
+  font-size: .7rem;
+}
+.pending-ul .amount {
+  color: #999;
+  font-size: .7rem;
+}
+.pending-ul .amount em {
+  color: #000;
+}
+.pending-ul .sn {
+  color: #999;
+  font-size: .6rem;
+}
+.bound-account-tip {
+  text-align: center;
+  color: #999;
+  font-size: .7rem;
+  padding: 1rem .5rem;
+}
+.pending-repayment-wrap .bank-select .title {
+  color: #000;
+  font-weight: 700;
+}
+.pending-repayment-wrap .bank-select .inner {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.pending-repayment-wrap .bank-select .input-select {
+  width: 9rem;
+}
+.pending-repayment-wrap .bank-select .input-select .aui-icon-down {
+  position: absolute;
+  top: .5rem;
+  right: 0;
+}
+.company-repayment .total {
+  color: #000;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.company-repayment .total em {
+  font-size: .6rem;
+  font-style: italic;
+}

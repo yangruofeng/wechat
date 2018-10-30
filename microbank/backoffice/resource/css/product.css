@@ -1,0 +1,230 @@
+.container tr td {
+    font-size: 14px;
+}
+
+.fa {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.tab-top {
+    padding-left: 0px;
+    margin-bottom: -5px;
+}
+
+.tab-top li {
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    text-align: center;
+}
+
+.tab-top li a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.tab-top li.active {
+    border: 1px solid #DDD;
+    background: #FFF;
+}
+
+.tab-top li.active a {
+    color: #000;
+    font-weight: 500;
+}
+
+.page-2, .page-3 {
+    display: none;
+}
+
+.base-info {
+    margin-top: 15px;
+}
+
+.base-info .ibox-title {
+    border-bottom: 1px solid #e7eaec;
+    min-height: 40px;
+    padding-left: 0px;
+}
+
+.base-info .ibox-title h5 {
+    margin-bottom: 0;
+}
+
+.base-info .ibox-title .col-sm-4 {
+    text-align: right;
+}
+
+.base-info .content {
+    padding: 5px 15px 10px;
+    overflow: hidden;
+}
+
+.base-info .content .wrap {
+    width: 50%;
+    float: left;
+}
+
+.base-info .content .wrap1 {
+    width: 65%;
+    float: left;
+}
+
+.base-info .content .wrap2 {
+    width: 35%;
+    float: left;
+}
+
+.base-info label {
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.base-info table td {
+    padding: 5px;
+}
+
+.product-info {
+    float: left;
+    width: 68%;
+    background-color: #fff;
+}
+
+.penalty-info {
+    float: right;
+    width: 30%;
+    background-color: #fff;
+}
+
+.size-info {
+    background: #fff;
+}
+
+.condition-info {
+    background: #fff;
+}
+
+.description, .required {
+    float: right;
+    width: 49%;
+    background-color: #fff;
+}
+
+.feature, .qualification, .notice {
+    float: left;
+    width: 49%;
+    background-color: #fff;
+}
+
+.modal-dialog {
+    margin-top: 15px !important;
+}
+
+.checkbox-div label {
+    padding-top: 7px;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.modal .btn, .input-group-addon {
+    border-radius: 0 !important;
+}
+
+.size-info .size-item {
+    position: relative;
+    padding: 15px 15px 15px 30px;
+    margin-top: 0;
+    border-bottom: 1px solid #e7eaec;
+}
+
+.size-info .size-item:last-child {
+    border-bottom: 0;
+}
+
+.size-info .size-item .period {
+    position: absolute;
+    top: 18px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    color: #333;
+    background: #e6e6e6;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 50%;
+}
+
+.size-info .size-item .loan-limit {
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.size-info .size-item .function-div {
+    padding-right: 7px;
+    text-align: right;
+}
+
+/*.size-info .size-item .col-sm-4 .fa {*/
+/*margin-right: 10px;*/
+/*}*/
+
+.size-info .size-item .size-rate {
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.size-info .size-item .size-rate .size-rate-item {
+    padding: 7px 0;
+}
+
+.size-info .size-item .size-rate .size-rate-item .col-sm-2 {
+    text-align: right;
+}
+
+/*.size-info .size-item .size-rate .size-rate-item .col-sm-2 .fa {*/
+/*margin-left: 10px;*/
+/*}*/
+
+.size-info .size-item .size-rate .size-rate-item:nth-child(2n+1) {
+    background: #eee;
+}
+
+.size-info .size-item .size-rate .size-rate-item:nth-child(2n) {
+    background: #fcf8e3;
+}
+
+.size-info .content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.size-info .content .table tr:nth-child(2n) {
+    background: #F3F4F6;
+}
+
+.size-info .content .table tr:nth-child(2n+1) {
+    background: #FFF;
+}
+
+.size-info .content .table .table-header {
+    background: #F3F4F6!important;
+}
+
+.fa-mail-reply, .fa-floppy-o {
+    display: none;
+}
+
+.condition-info .fa-floppy-o {
+    display: block;
+}
+
+.description .content > div:first-child, .qualification .content > div:first-child, .required .content > div:first-child, .feature .content > div:first-child, .notice .content > div:first-child {
+    padding: 7px 0;
+}
+
+.not-allowed {
+    cursor: not-allowed;
+}

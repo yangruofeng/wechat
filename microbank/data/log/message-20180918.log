@@ -1,0 +1,42 @@
+--180918 130556: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 130739: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 134700: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage&uid=2
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 134734: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage&uid=2
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 144040: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 145419: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 145615: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 150326: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 150455: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 150518: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 150634: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 150702: /microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimitSettingPage
+Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=dev&op=partnerLimit
+--180918 161744: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--180918 165419: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategoryProductPage&member_id=310&uid=9
+Saved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategory&uid=310

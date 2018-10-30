@@ -1,0 +1,21 @@
+--181025 153217: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Tpl ERROR:templates/credit_vote/vote.successful.php is not exists
+redirect to:
+--181025 155114: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Vote fail:The account has been voted on!
+redirect to:
+--181025 155200: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Tpl ERROR:templates/credit_vote/Vote success!.php is not exists
+redirect to:
+--181025 155331: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Vote fail:The account has been voted on!
+redirect to:
+--181025 155412: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Vote fail:The account has been voted on!
+redirect to:
+--181025 155501: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Vote fail:The user has voted yet!
+redirect to:
+--181025 155537: /microbank_tim/microbank/wap_operator/index.php?act=credit_vote&op=voteSubmit
+Vote success!
+redirect to:

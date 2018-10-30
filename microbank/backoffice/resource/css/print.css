@@ -1,0 +1,7 @@
+.tr_odd td, .tr_even td {
+    background-color: #FFF!important;
+}
+
+.tr_odd:nth-child(2n), .tr_even:nth-child(2n) {
+    border-bottom: 1px solid #DDD;
+}

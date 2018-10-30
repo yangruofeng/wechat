@@ -1,0 +1,1 @@
+--180920 160724: {"errmsg":"Call to a member function toArray() on null","errno":1,"trace":null,"line":20,"file":"counter_base"}

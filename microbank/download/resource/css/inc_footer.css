@@ -1,0 +1,66 @@
+.bottom-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 99;
+  width: 100%;
+  background-color: #fff;
+  color: #333;
+  font-size: .6rem;
+}
+.footer-nav li {
+  width: 25%;
+  float: left;
+  text-align: center;
+  line-height: .6rem;
+  padding: .3rem 0;
+}
+.footer-nav li.active {
+  color: #66165d;
+}
+.footer-nav li p {
+  height: 1.2rem;
+}
+.footer-nav li.loan p {
+  background: url(../../../wap/resource/image/icon_loan.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.loan.active p {
+  background: url(../../../wap/resource/image/icon_loan_check.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.credit p {
+  background: url(../../../wap/resource/image/icon_credit.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.credit.active p {
+  background: url(../../../wap/resource/image/icon_credit_check.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.message p {
+  background: url(../image/icon_message.png) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.message.active p {
+  background: url(../image/icon_message_check.png) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.service p {
+  background: url(../../../wap/resource/image/iocn_main_rb_service.png) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.service.active p {
+  background: url(../../../wap/resource/image/iocn_main_rb_service_check.png) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.account p {
+  background: url(../../../wap/resource/image/icon_account.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.account.active p {
+  background: url(../../../wap/resource/image/icon_account_check.png?v=1) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li span {
+  display: block;
+}

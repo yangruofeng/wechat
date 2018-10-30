@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Lucky Dig</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/iconfont/iconfont.css" rel="stylesheet">
+    <!-- dig.css -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- /dig.css -->
+</head>
+
+<body>
+    <div class="container">
+        <div class="page-header">
+            <h2>Lucky Dig <small> KHBuy Game</small></h2>
+        </div>
+        <div id="betSetting" class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Bet Setting</h4>
+            </div>
+            <div class="panel-body">
+                <form>
+                    <div class="form-group">
+                        <label for="betAmount">Amount</label>
+                        <input id='betAmount' type='number' class="form-control" placeholder="100 - 10000" value="1500" />
+                        <span class="help-block hide">Required. Number!</span>
+                    </div>
+                    <div class="form-group">
+                        <label>Game Type</label>
+
+                        <div class="radio">
+                            <label class="radio-inline">
+                        <input type="radio" name="gameType" value="9">
+                        9 Grids
+                        </label>
+                            <label class="radio-inline">
+                        <input type="radio" name="gameType" value="16" checked>
+                        16 Grids
+                        </label>
+                            <label class="radio-inline">
+                        <input type="radio" name="gameType" value="25">
+                        25 Grids
+                        </label>
+                            <label class="radio-inline">
+                        <input type="radio" name="gameType" value="36">
+                        36 Grids
+                        </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="redPacketCount">Red Packet Count:</label>
+                        <input id="redPacketCount" type="number" class="form-control" placeholder="" value="8" />
+                        <span class="help-block hide">Required. Number!</span>
+                    </div>
+                </form>
+            </div>
+            <div class="panel-footer text-center">
+                <button id="btnBegin" type="button" class="btn btn-primary">Begin</button>
+            </div>
+        </div>
+        <div id="playGame" class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Playing</h4>
+            </div>
+            <div class="progress">
+                <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
+                    style="width: 0%;min-width: 2em;">
+                    0%
+                </div>
+            </div>
+            <div class="row infobox-container">
+                <!-- #section:pages/dashboard.infobox -->
+                <div class="infobox infobox-green">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-touzhu"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <span class="infobox-data-number"><span id='spnAmount'></span></span>
+                        <div class="infobox-content">Bet Amount</div>
+                    </div>
+
+                </div>
+
+                <div class="infobox infobox-blue">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-grid"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <span class="infobox-data-number"><span id='spnGrid'></span></span>
+                        <div class="infobox-content">Grid Count</div>
+                    </div>
+
+                </div>
+
+                <div class="infobox infobox-red">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-peishuai"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <span class="infobox-data-number"><span id='spnOdds'></span></span>
+                        <div class="infobox-content">Odds</div>
+                    </div>
+                </div>
+
+                <div class="infobox infobox-pink">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-jinbi"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <span class="infobox-data-number"><span id='spnTotal'></span></span>
+                        <div class="infobox-content">Total Points</div>
+                    </div>
+                </div>
+
+                <div class="infobox infobox-orange2">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-bomb"></i>
+                    </div>
+                    <div class="infobox-data">
+                        <span class="infobox-data-number"><span id='spnBombCount'></span></span>
+                        <div class="infobox-content">Bomb Count</div>
+                    </div>
+
+                </div>
+
+                <!-- /section:pages/dashboard.infobox -->
+                <div class="space-6"></div>
+
+                <!-- #section:pages/dashboard.infobox.dark -->
+                <div class="infobox infobox-green infobox-small infobox-dark">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-siglyphpick"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <div class="infobox-content">Digged</div>
+                        <div class="infobox-content"><span id='spnRPDigged'></span></div>
+                    </div>
+                </div>
+
+                <div class="infobox infobox-blue infobox-small infobox-dark">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-iconredpacketfill"></i>
+                    </div>
+                    <div class="infobox-data">
+                        <div class="infobox-content">Remaining</div>
+                        <div class="infobox-content"><span id='spnRPRemaining'></span></div>
+                    </div>
+                </div>
+
+                <div class="infobox infobox-red infobox-small infobox-dark">
+                    <div class="infobox-icon">
+                        <i class="ace-icon icon iconfont icon-lottery1"></i>
+                    </div>
+
+                    <div class="infobox-data">
+                        <div class="infobox-content">Earnings</div>
+                        <div class="infobox-content"><span id='spnRPPoint'></span></div>
+                    </div>
+                </div>
+
+                <!-- /section:pages/dashboard.infobox.dark -->
+            </div>
+            <div class="row panel-body ">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 text-center">
+                    <svg id="canvas"></svg>
+                    <div class="container-fluid" id="table"></div>
+                </div>
+                <div class="col-xs-12">
+                <div class="alert alert-success text-center" role="alert">Congratulation!</div>
+                <div class="alert alert-danger text-center" role="alert">Game Over!</div>
+                </div>
+            </div>
+            <div class="panel-footer text-center">
+                <button id="btnAbort" type="button" class="center-block btn btn-danger">Abort</button>
+                <button id="btnAgain" type="button" class="center-block btn btn-primary">Play One More Time</button>
+            </div>
+        </div>
+    </div>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/jquery/jquery.easing.min.js"></script>
+    <script src="vendor/snap.min.js"></script>
+    <script src="vendor/howler.min.js"></script>
+    <!-- dig.js -->
+    <script src="assets/js/sound.js"></script>
+    <script src="images.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/red_packet.js"></script>
+    <script src="assets/js/grid_data.js"></script>
+    <script src="assets/js/animation.js"></script>
+    <script src="assets/js/canvas.js"></script>
+    <script src="assets/js/game.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/firebomb.js"></script>
+    <script src="assets/js/sparkle.js"></script>
+    <script src="assets/js/flip.js"></script>
+    <!-- /dig.js -->
+</body>
+
+</html>

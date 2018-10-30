@@ -1,0 +1,3 @@
+update core_tree,village_address_text set core_tree.node_text_alias=village_address_text.text_alias
+
+where core_tree.node_text=village_address_text.en_text and core_tree.node_level=4;

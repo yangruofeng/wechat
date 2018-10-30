@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title><?php echo $output['html_title']; ?></title>
+
+    <link rel="stylesheet" href="<?php echo GLOBAL_RESOURCE_SITE_URL; ?>/ztree_master_v3/css/zTreeStyle/zTreeStyle.css" type="text/css">
+    <script type="text/javascript" src="<?php echo GLOBAL_RESOURCE_SITE_URL; ?>/js/jquery214.js"></script>
+    <script type="text/javascript" src="<?php echo GLOBAL_RESOURCE_SITE_URL; ?>/ztree_master_v3/js/jquery.ztree.all.min.js"></script>
+
+    <style>
+
+        .checked-wrapper{
+            display: inline-block;
+            margin-left: 25px;
+        }
+
+        #checked_html_table{
+            width: 300px;
+            font-size: 16px;
+            color: #333;
+            border: solid 1px #ddd;
+
+        }
+
+        #checked_html_table th,#checked_html_table td{
+            text-align: center;
+            border: solid 1px #ddd;
+        }
+
+        #btn_reset{
+            margin-left: 10px;
+        }
+
+    </style>
+</head>
+<body>
+
+
+<div>
+
+    Test: <input type="text" readonly title="select name" name="select_name" id="input_select_name" onclick="_showSelectMenu();" /> <a href="#" onclick="_showSelectMenu();">选择</a>
+
+    <div class="checked-wrapper">
+        选中:
+        <div>
+            <table id="checked_html_table"   cellspacing="0" cellpadding="0">
+
+                <thead>
+                <tr>
+                    <th>id</th>
+                    <th>pid</th>
+                    <th>name</th>
+                    <th>level</th>
+                </tr>
+                </thead>
+
+                <tbody>
+
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+
+</div>
+
+<div>
+    <div id="menuContent" class="menuContent" style="display:none; position: absolute;background-color: #fdf9f9;">
+        <ul id="treeDemo" class="ztree" style="margin-top:0; width:180px;">
+
+        </ul>
+        <div style="margin: 10px 0;">
+            <button id="btn_reset" onclick="_resetCheck();">
+                重置
+            </button>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+    function onBodyKeyDown(){
+        if (!(event.target.id == "menuBtn" || event.target.id == "citySel" || event.target.id == "menuContent" || $(event.target).parents("#menuContent").length>0)) {
+            _hideSelectMenu();
+        }
+    }
+
+    function _resetCheck(){
+
+        var zTree = $.fn.zTree.getZTreeObj("treeDemo"),
+            nodes = zTree.getCheckedNodes(true);
+        for (var i=0, l=nodes.length; i<l; i++) {
+            zTree.checkNode(nodes[i],false,null,true);
+        }
+
+    }
+
+    function treeOnClick(event,treeId,treeNode){
+        var zTree = $.fn.zTree.getZTreeObj("treeDemo");
+        zTree.checkNode(treeNode, !treeNode.checked, null, true);
+        return false;
+    }
+
+
+    function _updateCheck()
+    {
+        var zTree = $.fn.zTree.getZTreeObj("treeDemo"),
+            nodes = zTree.getCheckedNodes(true),
+            v = "",
+            html = '';
+        for (var i=0, l=nodes.length; i<l; i++) {
+            v += nodes[i].name + ",";
+            html += '<tr>';
+            html += '<td>'+nodes[i].id+'</td>';
+            html += '<td>'+nodes[i].pId+'</td>';
+            html += '<td>'+nodes[i].name+'</td>';
+            html += '<td>'+nodes[i].level+'</td>';
+            html += '</tr>';
+        }
+        var cityObj = $("#input_select_name");
+        cityObj.attr("value", v);
+        $('#checked_html_table tbody').html(html);
+    }
+
+
+    function treeOnCheck(event,treeId,treeNode){
+
+        //console.log(treeId);
+        console.log(treeNode);
+        _updateCheck();
+
+    }
+
+    function _showSelectMenu()
+    {
+        var cityObj = $("#input_select_name");
+        var cityOffset = $("#input_select_name").offset();
+        $("#menuContent").css({left:cityOffset.left + "px", top:cityOffset.top + cityObj.outerHeight() + "px"}).fadeIn("fast");
+
+        $("body").bind("mousedown", onBodyKeyDown);
+    }
+
+    function _hideSelectMenu()
+    {
+        $("#menuContent").fadeOut("fast");
+        $("body").unbind("mousedown", onBodyKeyDown);
+    }
+
+
+
+    var setting = {
+        check: {
+            enable: true,
+            //chkStyle: "checkbox",
+            chkboxType: {"Y":"", "N":""}
+        },
+        view: {
+            dblClickExpand: false
+        },
+        data: {
+            simpleData: {
+                enable: true
+            }
+        },
+        callback: {
+            onClick: treeOnClick,
+            onCheck: treeOnCheck
+        }
+    };
+    var zNodes =[
+        {id:4, pId:0, name:"河北省", open:true, nocheck:false},  // nocheck true
+        {id:41, pId:4, name:"石家庄"},
+        {id:42, pId:4, name:"保定"},
+        {id:43, pId:4, name:"邯郸"},
+        {id:44, pId:4, name:"承德"},
+        {id:5, pId:0, name:"广东省", open:true, nocheck:false},
+        {id:51, pId:5, name:"广州"},
+        {id:52, pId:5, name:"深圳"},
+        {id:53, pId:5, name:"东莞"},
+        {id:54, pId:5, name:"佛山"},
+        {id:6, pId:0, name:"福建省", open:true, nocheck:true},
+        {id:61, pId:6, name:"福州"},
+        {id:62, pId:6, name:"厦门"},
+        {id:63, pId:6, name:"泉州"},
+        {id:64, pId:6, name:"三明"}
+    ];
+
+    $(document).ready(function(){
+
+        $.fn.zTree.init($("#treeDemo"), setting, zNodes);
+
+
+    });
+</script>
+</body>
+</html>

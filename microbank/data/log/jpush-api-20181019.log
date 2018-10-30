@@ -1,0 +1,30 @@
+--181019 175918: https://api.jpush.cn/v3/push
+--181019 175918: {"platform":"all","audience":{"alias":["728"]},"notification":{"alert":"Your loan contract has come into force,just wait for distributing!","android":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2495}},"ios":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2495}}},"options":{"apns_production":false}}
+--181019 175919: HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Fri, 19 Oct 2018 10:59:43 GMT
+Content-Type: application/json
+Content-Length: 98
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 599
+X-Rate-Limit-Reset: 60
+X-Jpush-Msgid: 58546796824599981
+X-Jpush-Timestamp: 1539946783510
+
+{"msg_id":"58546796824599981","error":{"code":1011,"message":"cannot find user by this audience"}}
+--181019 180149: https://api.jpush.cn/v3/push
+--181019 180149: {"platform":"all","audience":{"alias":["728"]},"notification":{"alert":"Withdraw cash(Counter): 1000.00USD","android":{"alert":"Withdraw cash(Counter): 1000.00USD","extras":{"type":1,"message_id":2496}},"ios":{"alert":"Withdraw cash(Counter): 1000.00USD","extras":{"type":1,"message_id":2496}}},"options":{"apns_production":false}}
+--181019 180149: HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Fri, 19 Oct 2018 11:02:13 GMT
+Content-Type: application/json
+Content-Length: 98
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 599
+X-Rate-Limit-Reset: 60
+X-Jpush-Msgid: 58546796824661065
+X-Jpush-Timestamp: 1539946933218
+
+{"msg_id":"58546796824661065","error":{"code":1011,"message":"cannot find user by this audience"}}

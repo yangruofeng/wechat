@@ -1,0 +1,16 @@
+--180926 101618: /microbank_tim/microbank/api/v2/officer.add.credit.request.relative.php?officer_id=1&credit_request_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--180926 101630: /microbank_tim/microbank/api/v2/officer.add.credit.request.relative.php?officer_id=1&credit_request_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--180926 102451: /microbank_tim/microbank/api/v2/co/member.credit.request.add.relative.v2.php?officer_id=1&credit_request_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"The phone or ID-SN has already existed.","DATA":null,"CODE":11086}
+--180926 102505: /microbank_tim/microbank/api/v2/co/member.credit.request.add.relative.v2.php?officer_id=1&credit_request_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--180926 103505: /microbank_tim/microbank/api/v2/co/member.credit.request.edit.relative.v2.php?officer_id=1&relation_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--180926 103518: /microbank_tim/microbank/api/v2/co/member.credit.request.edit.relative.v2.php?officer_id=1&relation_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"No info.","DATA":null,"CODE":1003}
+--180926 103554: /microbank_tim/microbank/api/v2/co/member.credit.request.edit.relative.v2.php?officer_id=1&relation_id=1&relation_type=coborrower&relation_name=Father&relation_name_code=father&name=Zhang%20san&gender=male&country_code=855&phone_number=6255433654&id_sn=266559995854556&headshot=headshot.png&id_front_image=id_front_image.png&id_back_image=id_back_image.png&token=
+{"STS":false,"MSG":"No relation info:1","DATA":null,"CODE":1003}
+--180926 145612: /microbank_tim/microbank/backoffice/index.php?_c=root&_m=upload2UpYun&yoajax=1
+{"STS":false,"MSG":"No Choose Files","DATA":null,"CODE":0}

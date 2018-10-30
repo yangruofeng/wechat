@@ -1,0 +1,6 @@
+--181008 103613: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=10
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--181008 154701: /microbank_tim/microbank/counter/index.php?_c=counter_base&_m=getTpl&yoajax=1
+Member not found:0
+redirect to:

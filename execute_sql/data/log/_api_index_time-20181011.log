@@ -1,0 +1,3 @@
+--181011 170259: 3.8442199230194 - . on ::1
+text=alter+table+member_authorized_contract+add+column+%0A%0A+%60loan_fee_khr_amount%60+decimal(20%2C2)+DEFAULT+'0.00'+COMMENT+'loan+fee+khr'+after+fee_khr%2C%0A+add+column++%60admin_fee_khr_amount%60+decimal(20%2C2)+DEFAULT+'0.00'+COMMENT+'admin+fee+khr'+after+loan_fee_khr_amount%2C%0A+add+column++%60annual_fee_khr_amount%60+decimal(20%2C2)+DEFAULT+'0.00'+COMMENT+'annual+fee+khr'+after+admin_fee_khr_amount%3B
+

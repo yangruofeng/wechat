@@ -1,0 +1,1 @@
+--181017 085503: {"errmsg":"Call to undefined method Language::getCurrentLang()","errno":1,"trace":null,"line":689,"file":"print_form"}

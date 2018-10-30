@@ -1,0 +1,15 @@
+--181015 101023: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=8
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--181015 101128: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=10
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--181015 101218: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=1
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--181015 101243: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=1
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category
+--181015 161033: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberResidence
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=685

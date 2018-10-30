@@ -1,0 +1,9 @@
+--181019 100109: /microbank_tim/microbank/backoffice/index.php?act=financial&op=setExchangeRate&uid=1
+Setting successful!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=financial&op=exchangeRate
+--181019 165118: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberRequest
+Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=728
+--181019 165423: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=commitCreditApplication
+Approved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=approveCreditApplication

@@ -1,0 +1,51 @@
+<?php
+$static_lang=array (
+  'en' => 
+  array (
+    'uid' => 'Uid',
+    'member_id' => 'Member Id',
+    'credit' => 'Credit',
+    'terms' => 'Terms',
+    'purpose' => 'Purpose',
+    'interest_rate' => 'Interest Rate',
+    'state' => 'State',
+    'operator_id' => 'Operator Id',
+    'operator_name' => 'Operator Name',
+    'create_time' => 'Create Time',
+    'update_operator_id' => 'Update Operator Id',
+    'update_operator_name' => 'Update Operator Name',
+    'update_time' => 'Update Time',
+  ),
+  'zh_cn' => 
+  array (
+    'uid' => 'Uid',
+    'member_id' => 'Member Id',
+    'credit' => 'Credit',
+    'terms' => 'Terms',
+    'purpose' => 'Purpose',
+    'interest_rate' => 'Interest Rate',
+    'state' => 'State',
+    'operator_id' => 'Operator Id',
+    'operator_name' => 'Operator Name',
+    'create_time' => 'Create Time',
+    'update_operator_id' => 'Update Operator Id',
+    'update_operator_name' => 'Update Operator Name',
+    'update_time' => 'Update Time',
+  ),
+  'kh' => 
+  array (
+    'uid' => 'Uid',
+    'member_id' => 'Member Id',
+    'credit' => 'Credit',
+    'terms' => 'Terms',
+    'purpose' => 'Purpose',
+    'interest_rate' => 'Interest Rate',
+    'state' => 'State',
+    'operator_id' => 'Operator Id',
+    'operator_name' => 'Operator Name',
+    'create_time' => 'Create Time',
+    'update_operator_id' => 'Update Operator Id',
+    'update_operator_name' => 'Update Operator Name',
+    'update_time' => 'Update Time',
+  ),
+);

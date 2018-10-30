@@ -1,0 +1,9 @@
+--181018 085458: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberRequest
+Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--181018 102132: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=commitCreditApplication
+Approved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=approveCreditApplication
+--181018 102244: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=submitVoteCreditResult
+Vote Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=userVote

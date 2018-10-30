@@ -1,0 +1,567 @@
+--180926 095408: 1.4080810546875 - . on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--180926 095408: 1.5040857791901 - . on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--180926 095409: 1.2320709228516 - . on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--180926 095845: 1.1930680274963 - . on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--180926 095845: 1.3360760211945 - . on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--180926 095845: 1.4770841598511 - . on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--180926 101618: 1.1560671329498 - . on ::1
+
+
+--180926 101630: 1.1100628376007 - . on ::1
+
+
+--180926 101715: 1.2790729999542 - . on ::1
+
+
+--180926 102451: 1.2310700416565 - . on ::1
+
+
+--180926 102505: 1.0910618305206 - . on ::1
+
+
+--180926 103505: 1.1420650482178 - . on ::1
+
+
+--180926 103518: 1.1840682029724 - . on ::1
+
+
+--180926 103554: 1.1850671768188 - . on ::1
+
+
+--180926 104523: 1.2120690345764 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 104530: 1.2260699272156 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":2,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 104538: 1.2570719718933 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":3,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 104724: 1.2820739746094 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 104902: 1.246071100235 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"1000306","member_name":""}}}}
+
+--180926 104907: 1.2720727920532 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 104931: 1.2360711097717 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":"ren"}}}}
+
+--180926 105150: 1.222069978714 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 105158: 1.1970691680908 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 105341: 1.182067155838 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 105455: 1.1600658893585 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 121757: 1.22807097435 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 121948: 1.117063999176 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 122010: 1.2150700092316 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 122215: 1.235071182251 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 122223: 1.1390650272369 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 122650: 1.2360699176788 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123221: 1.1890678405762 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123331: 1.1960680484772 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123409: 1.1880679130554 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123501: 1.1130640506744 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123538: 1.2090690135956 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123606: 1.1300649642944 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123644: 1.1730670928955 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123659: 1.1430652141571 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123713: 1.1570661067963 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123724: 1.1180639266968 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123739: 1.1800670623779 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123752: 1.1670670509338 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"11","obj_guid":"","member_name":""}}}}
+
+--180926 123800: 1.1790668964386 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 123812: 1.2700719833374 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"20","obj_guid":"","member_name":""}}}}
+
+--180926 123818: 1.1990690231323 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 123825: 1.1930680274963 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"11","obj_guid":"","member_name":""}}}}
+
+--180926 123832: 1.1560659408569 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"20","obj_guid":"","member_name":""}}}}
+
+--180926 123838: 1.1710669994354 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 123844: 1.1550660133362 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 123849: 1.1720671653748 - . on ::1
+{"param":{"uid":308,"type":"13","state":1}}
+
+--180926 123853: 1.2340710163116 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 123904: 1.1670670509338 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 123936: 1.2190699577332 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 124007: 1.2420709133148 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 124056: 1.175066947937 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 124121: 1.1810669898987 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"1","obj_guid":"","member_name":""}}}}
+
+--180926 124131: 1.2110688686371 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"11","obj_guid":"","member_name":""}}}}
+
+--180926 124136: 1.1740670204163 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"12","obj_guid":"","member_name":""}}}}
+
+--180926 124141: 1.1620669364929 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"13","obj_guid":"","member_name":""}}}}
+
+--180926 124148: 1.1810669898987 - . on ::1
+{"param":{"tpl":"black_remove.list","tpl_dir":"client","dynamic":{"api":"client","method":"getRemoveBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"20","obj_guid":"","member_name":""}}}}
+
+--180926 124154: 1.1860680580139 - . on ::1
+{"param":{"tpl":"black_add.list","tpl_dir":"client","dynamic":{"api":"client","method":"getAddBlackClient","param":{"pageNumber":1,"pageSize":50,"type":"20","obj_guid":"","member_name":""}}}}
+
+--180926 124438: 1.1700668334961 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 124444: 1.0940630435944 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 124449: 1.1120638847351 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 124452: 1.1710669994354 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 125521: 1.1990690231323 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 125531: 1.2140700817108 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 125534: 1.1940679550171 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 125553: 1.1530659198761 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 125650: 1.1570661067963 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 125812: 1.1890680789948 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 125815: 1.1620659828186 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 130015: 1.2050678730011 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 130353: 1.1720669269562 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 130610: 1.2050688266754 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 130614: 1.1360640525818 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 130945: 1.1700670719147 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 130948: 1.1510660648346 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 131034: 1.1810681819916 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 131133: 1.1590669155121 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 131140: 1.1670668125153 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131142: 1.1770679950714 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131148: 1.164067029953 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131150: 1.1620659828186 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131151: 1.134064912796 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131152: 1.1690671443939 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131152: 1.1830680370331 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131340: 1.1950678825378 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 131444: 1.1290650367737 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 131526: 1.1480650901794 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131527: 1.1530661582947 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-27","pageNumber":1,"pageSize":20}}}}
+
+--180926 131530: 1.158066034317 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-28","pageNumber":1,"pageSize":20}}}}
+
+--180926 131531: 1.151065826416 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-28","pageNumber":1,"pageSize":20}}}}
+
+--180926 132028: 1.2070689201355 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 132653: 1.1660668849945 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 133718: 1.141065120697 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 133744: 1.1160640716553 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 133747: 1.147066116333 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 133817: 1.1530659198761 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 133906: 1.1290650367737 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 133950: 1.1900680065155 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"19","pageNumber":1,"pageSize":20}}}}
+
+--180926 133954: 1.2170701026917 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134127: 1.1730668544769 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134316: 1.1320650577545 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134719: 1.1420650482178 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134727: 1.1920680999756 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"1000339","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134733: 1.1620669364929 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134741: 1.1970691680908 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"gill","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134748: 1.216068983078 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"gi","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134753: 1.2440710067749 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134802: 1.1980690956116 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"7080","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134811: 1.2360711097717 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134820: 1.1590659618378 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"7078","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134832: 1.2170689105988 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134835: 1.1910681724548 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"19","pageNumber":1,"pageSize":20}}}}
+
+--180926 134840: 1.2080690860748 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"21","pageNumber":1,"pageSize":20}}}}
+
+--180926 134843: 1.1580657958984 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"20","pageNumber":1,"pageSize":20}}}}
+
+--180926 134847: 1.1980679035187 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"22","pageNumber":1,"pageSize":20}}}}
+
+--180926 134851: 1.2150690555573 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 134925: 1.133064031601 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 134946: 1.123064994812 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 134951: 1.1400649547577 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 134955: 1.1780669689178 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 135000: 1.1740670204163 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135052: 1.1650669574738 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135055: 1.1570661067963 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135150: 1.1790680885315 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135248: 1.1630661487579 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135256: 1.2140700817108 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"lyly","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135311: 1.1860680580139 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"9651","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135316: 1.1740670204163 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135324: 1.2160701751709 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"994","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135344: 1.2380709648132 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135349: 1.2230701446533 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135424: 1.1080629825592 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135532: 1.1740670204163 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135538: 1.1500658988953 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"21","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135644: 1.1460659503937 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135650: 1.2230701446533 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"100","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135704: 1.1800680160522 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135713: 1.1890680789948 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"1000601","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135719: 1.1930680274963 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135726: 1.1660668849945 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"dg","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135731: 1.181067943573 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"d g","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135742: 1.1540660858154 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 135749: 1.1850678920746 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 135752: 1.1810669898987 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135755: 1.1620659828186 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135757: 1.1670660972595 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 135801: 1.1690671443939 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 135806: 1.1460659503937 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 135812: 1.1260640621185 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 140623: 1.3840789794922 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 140640: 1.2750728130341 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 140644: 1.352077960968 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"allics","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 142725: 1.1700670719147 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 142750: 1.1250638961792 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 144214: 1.11106300354 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":10}}}}
+
+--180926 144217: 1.1560671329498 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 144220: 1.1410648822784 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":30}}}}
+
+--180926 144223: 1.1630659103394 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":50}}}}
+
+--180926 150110: 1.3050751686096 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 150232: 1.3240759372711 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 151208: 1.252072095871 - . on ::1
+{"param":{"tpl":"client.list","tpl_dir":"client","dynamic":{"api":"client","method":"getClientList","param":{"search_text":"","ck":0,"pageNumber":1,"pageSize":20}}}}
+
+--180926 152643: 1.1620659828186 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 153240: 1.1770679950714 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 153316: 1.1480658054352 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 153320: 1.1270639896393 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153323: 1.1710669994354 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153327: 1.1200640201569 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 153331: 1.1650671958923 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 153718: 1.1840670108795 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153721: 1.1290638446808 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153740: 1.1340651512146 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153746: 1.1420660018921 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153809: 1.1590659618378 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153813: 1.1780669689178 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 153820: 1.1730668544769 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153826: 1.1720669269562 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 153842: 1.1460659503937 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 154258: 1.1760668754578 - . on ::1
+{"param":{"tpl":"credit.category.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getCreditList","param":{"search_text":"","branch_id":"0","pageNumber":1,"pageSize":20}}}}
+
+--180926 154307: 1.147066116333 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 154347: 1.1740670204163 - . on ::1
+{"param":{"tpl":"trx.repay.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxRepayList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 154355: 1.1480660438538 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 160424: 1.1360650062561 - . on ::1
+{"param":{"tpl":"trx.loan.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getTrxLoanList","param":{"search_text":"","branch_id":"0","date_start":"2018-08-27","date_end":"2018-09-26","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180926 160607: 1.1200640201569 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 171419: 1.1370649337769 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+
+--180926 171517: 1.2010679244995 - . on ::1
+{"param":{"tpl":"daily.report.data.list","tpl_dir":"report_super_loan","dynamic":{"api":"report_super_loan","method":"getDailyReportData","param":{"date_end":"2018-09-26","pageNumber":1,"pageSize":20}}}}
+

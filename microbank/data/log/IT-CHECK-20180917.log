@@ -1,0 +1,27 @@
+--180917 091513: {"STS":false,"MSG":"Unknown error","DATA":0,"CODE":0}
+--180917 164045: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2364,"file":"user.class"}
+--180917 164050: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2364,"file":"user.class"}
+--180917 164055: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2364,"file":"user.class"}
+--180917 164100: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2364,"file":"user.class"}
+--180917 164105: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2365,"file":"user.class"}
+--180917 164110: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2365,"file":"user.class"}
+--180917 164115: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2365,"file":"user.class"}
+--180917 164120: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2366,"file":"user.class"}
+--180917 164125: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2366,"file":"user.class"}
+--180917 164130: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2366,"file":"user.class"}
+--180917 164135: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2367,"file":"user.class"}
+--180917 164140: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2367,"file":"user.class"}
+--180917 164145: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164150: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164155: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164200: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164205: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164210: {"errmsg":"syntax error, unexpected '{'","errno":4,"trace":null,"line":2368,"file":"user.class"}
+--180917 164215: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164220: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164225: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164230: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164235: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164240: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164245: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}
+--180917 164250: {"errmsg":"syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'","errno":4,"trace":null,"line":2370,"file":"user.class"}

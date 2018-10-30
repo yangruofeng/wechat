@@ -1,0 +1,59 @@
+.easyui-menubutton{
+    border: solid 1px #CCCCCC;
+    background: white;
+}
+.l-btn-text{
+    font-size: 14px;
+}
+.window{
+    padding: 0;
+    min-width: 300px;
+}
+.window .window-header{
+    background-color:#195826;
+}
+.window, .window .window-body{
+    box-shadow: 1px 5px 15px #130D0D;
+    border: #FFFFFF;
+}
+.window .window-header .panel-title{
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.window .window-header .panel-tool{
+    border-radius: 50%;
+    background-color: #F2F2F2;
+    right: 10px;
+}
+
+.form-control{
+    border-radius:0;
+}
+.table-hover>tbody>tr:hover{
+    background-color:rgba(0,0,0,.075);
+}
+
+.btn {
+    background-image: none;
+    border-radius: 0;
+    min-width: 100px;
+    /*background: #E9754C;*/
+    /*border: 1px solid #E9754C;*/
+    /*color: #fff;*/
+}
+.btn-slave {
+    background-color: #c1c1c1;
+    border: solid 1px #927f7f;
+}
+.btn-slave:hover{
+    background-color: #e0e0e0;
+}
+/*.btn:hover,.btn:active,.btn:visited,.btn:link {background-image: none; border-radius: 0;background: #E9754C;color:#fff;border: 1px solid #E9754C;}*/
+.panel-body{
+    font-size: 14px;
+    color: #000000;
+    font-weight: 500;
+}

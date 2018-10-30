@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.4506mm" height="9.3132mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.4506 9.3132"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#1F1A17}
+    .fil1 {fill:white}
+    .fil2 {fill:#1F1A17;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_112140440">
+   <circle id="_147793592" class="fil0" transform="matrix(0.666118 0.520177 -0.520177 0.666118 3.25778 5.2265)" r="1.9685"/>
+   <rect id="_147019528" class="fil0" transform="matrix(0.841887 0.657437 -0.617945 0.791316 3.97158 3.36467)" width="1.0922" height="0.4572"/>
+   <path id="_112140104" class="fil1" d="M3.3716 4.1034l0.5812 0.4538 -0.0019 0.0025c-0.4255,-0.2416 -0.9611,-0.1795 -1.3201,0.1506l-0.0036 -0.0028 0.4428 -0.567c0.0727,-0.0932 0.2085,-0.1099 0.3016,-0.0371z"/>
+   <path id="_115409944" class="fil2" d="M4.3647 3.6717l0.2468 -0.316 0.0041 -0.0048c0.0063,-0.0066 0.2724,-0.2948 0.5602,-0.3306 0.0451,0.0073 0.075,0.0473 0.0786,0.0751 0.0015,0.0127 0.0068,0.0539 -0.0534,0.0868 -0.191,0.0209 -0.4266,0.2396 -0.4577,0.2793l-0.2453 0.3142 -0.1333 -0.104z"/>
+   <rect id="_150874272" class="fil0" transform="matrix(0.788767 1.00874 -0.914153 0.714809 4.57453 2.3829)" width="0.4301" height="0.0958" rx="0.0479" ry="0.0479"/>
+   <rect id="_115132720" class="fil0" transform="matrix(-0.325183 1.23853 -1.1224 -0.294693 5.38012 2.26376)" width="0.4301" height="0.0958" rx="0.0479" ry="0.0479"/>
+   <rect id="_150873864" class="fil0" transform="matrix(-1.1192 0.622166 -0.563829 -1.01426 5.92274 2.73651)" width="0.4301" height="0.0958" rx="0.0479" ry="0.0479"/>
+   <rect id="_151274032" class="fil0" transform="matrix(-1.24901 -0.282248 0.255783 -1.1319 5.9789 3.38827)" width="0.4301" height="0.0958" rx="0.0479" ry="0.0479"/>
+   <rect id="_88685648" class="fil0" transform="matrix(-0.77753 -1.01742 0.922025 -0.704626 5.6121 3.8947)" width="0.4301" height="0.0958" rx="0.0479" ry="0.0479"/>
+  </g>
+ </g>
+</svg>

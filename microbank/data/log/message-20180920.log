@@ -1,0 +1,12 @@
+--180920 160301: /microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchLimit
+Set Branch Limit Successful
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchList
+--180920 160425: /microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchLimit
+Set Branch Limit Successful
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchList
+--180920 161841: /microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchCredit
+Edit Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchList
+--180920 162000: /microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchCredit
+Edit Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=treasure&op=branchList

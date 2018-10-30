@@ -1,0 +1,10 @@
+--181010 133358: /microbank_tim/microbank/api/v2/co/get.member.credit.request.list.v2.php?member_id=1&officer_id=1&type=0&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--181010 133414: /microbank_tim/microbank/api/v2/co/get.member.credit.request.list.v2.php?member_id=1&officer_id=1&type=0&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--181010 170046: /microbank_tim/microbank/api/v2/co/submit.member.relative.profile.cert.php?officer_id=1&relative_id=1&type=5&input_field=&image_list=%255B%257B%2522image_key%2522%253A%2522id_front%2522%252C%2522image_url%2522%253A%2522a.png%2522%252C%2522image_source%2522%253A0%257D%252C%257B%2522image_key%2522%253A%2522id_back%2522%252C%2522image_url%2522%253A%2522b.png%2522%252C%2522image_source%2522%253A1%257D%255D&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--181010 170102: /microbank_tim/microbank/api/v2/co/submit.member.relative.profile.cert.php?officer_id=1&relative_id=1&type=5&input_field=&image_list=%255B%257B%2522image_key%2522%253A%2522id_front%2522%252C%2522image_url%2522%253A%2522a.png%2522%252C%2522image_source%2522%253A0%257D%252C%257B%2522image_key%2522%253A%2522id_back%2522%252C%2522image_url%2522%253A%2522b.png%2522%252C%2522image_source%2522%253A1%257D%255D&token=
+{"STS":false,"MSG":"No found relative:1","DATA":null,"CODE":1003}
+--181010 170431: /microbank_tim/microbank/api/v2/co/submit.member.relative.profile.cert.php?officer_id=1&relative_id=1&type=5&input_field=&image_list=%255B%257B%2522image_key%2522%253A%2522id_front%2522%252C%2522image_url%2522%253A%2522a.png%2522%252C%2522image_source%2522%253A0%257D%252C%257B%2522image_key%2522%253A%2522id_back%2522%252C%2522image_url%2522%253A%2522b.png%2522%252C%2522image_source%2522%253A1%257D%255D&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}

@@ -1,0 +1,114 @@
+--180919 090559: 1.3950788974762 - . on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--180919 090559: 1.5250868797302 - . on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--180919 090600: 1.2490720748901 - . on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--180919 090613: 1.310075044632 - . on ::1
+{"param":{"tpl":"branch.list","tpl_dir":"user","dynamic":{"api":"user","method":"getBranchList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 090650: 1.2570719718933 - . on ::1
+{"param":{"tpl":"branch.list","tpl_dir":"user","dynamic":{"api":"user","method":"getBranchList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 090704: 1.246071100235 - . on ::1
+{"param":{"tpl":"loan.contract.list","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"ajaxLoanContractList","param":{"uid":"","client_text":"","contract_sn":"","state":"0","date_start":"2018-09-19","date_end":"2018-09-19","select_date_range":"default"}}}}
+
+--180919 090742: 1.2340710163116 - . on ::1
+{"param":{"tpl":"branch.info","tpl_dir":"data_center_branch","dynamic":{"api":"data_center_branch","method":"getBranchInfo","param":{"branch_id":null}}}}
+
+--180919 090802: 1.3250758647919 - . on ::1
+{"param":{"tpl":"billpay.check.list","tpl_dir":"financial","dynamic":{"api":"financial","method":"getBillPayCheckList","param":{"pageNumber":1,"pageSize":50}}}}
+
+--180919 090819: 1.2950739860535 - . on ::1
+{"param":{"tpl":"billpay.check.list","tpl_dir":"financial","dynamic":{"api":"financial","method":"getBillPayCheckList","param":{"pageNumber":1,"pageSize":50}}}}
+
+--180919 101020: 1.1100630760193 - . on ::1
+
+
+--180919 101028: 1.1210641860962 - . on ::1
+user_code=devtim&user_password=123456
+
+--180919 101033: 1.1540660858154 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 101044: 1.1920680999756 - . on ::1
+{"param":{"tpl":"member.biz.limit.detail","tpl_dir":"dev","dynamic":{"api":"dev","method":"getMemberBizLimitByGrade","param":{"member_grade":"2"}}}}
+
+--180919 101121: 1.1920680999756 - . on ::1
+{"param":{"tpl":"user.define.list","tpl_dir":"setting","dynamic":{"api":"setting","method":"getDefineList","param":{"pageNumber":1,"pageSize":20,"search_text":"","is_system":0}}}}
+
+--180919 101147: 1.2110691070557 - . on ::1
+{"param":{"tpl":"reject.client.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getRejectClientList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 101617: 1.147066116333 - . on ::1
+{"param":{"tpl":"ic_card.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getIcCardList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 101624: 1.2070691585541 - . on ::1
+{"param":{"tpl":"passbook_account.adjust.member.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getMemberListWithPassbookAccounts","param":{"pageNumber":1,"pageSize":50,"search_text":""}}}}
+
+--180919 101630: 1.2280700206757 - . on ::1
+{"param":{"tpl":"passbook_account.adjust.branch.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getBranchListWithPassbookAccounts","param":{"pageNumber":1,"pageSize":50,"search_text":""}}}}
+
+--180919 101638: 1.2100689411163 - . on ::1
+{"param":{"tpl":"trading_check.deposit.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getPartnerDepositCheckList","param":{"pageNumber":1,"pageSize":50,"search_text":""}}}}
+
+--180919 101654: 1.1780669689178 - . on ::1
+{"param":{"tpl":"trading_check.withdraw.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getPartnerWithdrawCheckList","param":{"pageNumber":1,"pageSize":50,"search_text":""}}}}
+
+--180919 101705: 1.1910679340363 - . on ::1
+{"param":{"tpl":"sms.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getSmsList","param":{"search_text":"","date_start":"2018-08-20","date_end":"2018-09-19","select_date_range":"default","need_resend":0,"pageNumber":1,"pageSize":20}}}}
+
+--180919 101724: 1.1500661373138 - . on ::1
+{"param":{"tpl":"system.push_notification.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getPushNotificationList","param":{"search_text":"","date_start":"2018-08-20","date_end":"2018-09-19","select_date_range":"default","pageNumber":1,"pageSize":20}}}}
+
+--180919 101731: 1.1420650482178 - . on ::1
+{"param":{"tpl":"ace.account.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getClientAceAccountList","param":{"pageNumber":1,"pageSize":20,"phoneNumber":""}}}}
+
+--180919 101739: 1.1910691261292 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 101741: 1.0620608329773 - . on ::1
+
+
+--180919 101745: 1.133064031601 - . on ::1
+user_code=admin&user_password=123456
+
+--180919 101750: 1.3360772132874 - . on ::1
+{"param":{"tpl":"dashboard.loan","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardLoanData"}}}
+
+--180919 101750: 1.4820840358734 - . on ::1
+{"param":{"tpl":"dashboard.savings","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardSavingsData"}}}
+
+--180919 101751: 1.1780669689178 - . on ::1
+{"param":{"tpl":"dashboard.business.activity","tpl_dir":"monitor","dynamic":{"api":"monitor","method":"getDashboardBusinessActivity"}}}
+
+--180919 101757: 1.2610719203949 - . on ::1
+{"param":{"tpl":"branch.list","tpl_dir":"user","dynamic":{"api":"user","method":"getBranchList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 141000: 1.1330649852753 - . on ::1
+
+
+--180919 141008: 1.1810669898987 - . on ::1
+user_code=devtim&user_password=123456
+
+--180919 141013: 1.2790729999542 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 150747: 1.1720678806305 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 150803: 1.1590669155121 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 150822: 1.1730670928955 - . on ::1
+{"param":{"tpl":"app_version.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getAppVersion","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 150834: 1.181067943573 - . on ::1
+{"param":{"tpl":"ic_card.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getIcCardList","param":{"pageNumber":1,"pageSize":20,"search_text":""}}}}
+
+--180919 150836: 1.2030689716339 - . on ::1
+{"param":{"tpl":"passbook_account.adjust.member.list","tpl_dir":"dev","dynamic":{"api":"dev","method":"getMemberListWithPassbookAccounts","param":{"pageNumber":1,"pageSize":50,"search_text":""}}}}
+

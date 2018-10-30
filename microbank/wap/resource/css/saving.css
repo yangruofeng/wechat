@@ -1,0 +1,47 @@
+/* message */
+.message-wrap {
+  margin-bottom: 3rem;
+}
+.message-list .message-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: block;
+}
+.message-list li.unread::before {
+  content: '';
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  position: absolute;
+  top: .9rem;
+  left: 0.2rem;
+  background-color: #b70202;
+}
+.message-detail-wrap .send-info {
+  background-color: #fff;
+  padding: .5rem .8rem;
+}
+.message-detail-wrap .send-info .time {
+  color: #a7a7a7;
+  font-size: .6rem;
+  margin-left: 3px;
+}
+.message-detail-wrap .msg-body {
+  padding: .5rem;
+}
+.message-detail-wrap .msg-content {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: .6rem;
+}
+.message-detail-wrap .msg-content .title {
+  color: #000;
+  text-align: center;
+  font-size: .7rem;
+  margin-bottom: .4rem;
+}
+.message-detail-wrap .msg-content .body {
+  color: #000;
+  font-size: .6rem;
+}

@@ -1,0 +1,1 @@
+<?php defined('PLUTOFLAG') or exit('Access Invalid!'); return 'D:/allics/microbank_tim/core/Enum.php' ?>

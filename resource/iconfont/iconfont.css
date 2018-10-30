@@ -1,0 +1,29 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot'); /* IE9*/
+  src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff') format('woff'), /* chrome、firefox */
+  url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-maijiazhongxin:before { content: "\e600"; }
+.icon-kefu:before { content: "\e601"; }
+.icon-weibiaoti111:before { content: "\e602"; }
+.icon-shangjiaguanli:before { content: "\e603"; }
+.icon-weixin:before { content: "\e604"; }
+.icon-bangzhuzhongxin:before { content: "\e605"; }
+.icon-pingban:before { content: "\e609"; }
+.icon-diannao:before { content: "\e60a"; }
+.icon-hongqi:before { content: "\e607"; }
+.icon-facebook:before { content: "\e606"; }
+.icon-brand:before { content: "\e608"; }
+.icon-icon60app2x:before { content: "\e60b"; }

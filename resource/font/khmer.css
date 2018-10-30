@@ -1,0 +1,13 @@
+/* khmer-regular - khmer */
+@font-face {
+  font-family: 'Khmer';
+  font-style: normal;
+  font-weight: 400;
+  src: url('khmer/khmer-v9-khmer-regular.eot'); /* IE9 Compat Modes */
+  src: local('Khmer'),
+       url('khmer/khmer-v9-khmer-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('khmer/khmer-v9-khmer-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('khmer/khmer-v9-khmer-regular.woff') format('woff'), /* Modern Browsers */
+       url('khmer/khmer-v9-khmer-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('khmer/khmer-v9-khmer-regular.svg#Khmer') format('svg'); /* Legacy iOS */
+}

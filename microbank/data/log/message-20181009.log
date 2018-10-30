@@ -1,0 +1,24 @@
+--181009 124230: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 124238: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153742: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153749: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153758: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153806: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153814: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:
+--181009 153822: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Table 'micbank.staff' doesn't exist,SOURCE-SQL:select count(*) total from (SELECT s.*,sb.branch_name,sd.depart_name FROM staff s left JOIN site_depart sd ON s.depart_id = sd.uid left JOIN site_branch sb ON sd.branch_id = sb.uid WHERE 1 = 1) z000000000000000001
+redirect to:

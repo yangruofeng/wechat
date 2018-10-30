@@ -1,0 +1,60 @@
+--181009 093123: https://api.jpush.cn/v3/push
+--181009 093123: {"platform":"all","audience":{"alias":["691"]},"notification":{"alert":"Your loan contract has come into force,just wait for distributing!","android":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2376}},"ios":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2376}}},"options":{"apns_production":false}}
+--181009 093124: HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 09 Oct 2018 02:37:15 GMT
+Content-Type: application/json
+Content-Length: 43
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 599
+X-Rate-Limit-Reset: 60
+X-Jpush-Msgid: 27021600662011430
+X-Jpush-Timestamp: 1539052635964
+
+{"sendno":"0","msg_id":"27021600662011430"}
+--181009 093124: https://api.jpush.cn/v3/push
+--181009 093124: {"platform":"all","audience":{"alias":["691"]},"notification":{"alert":"Your loan contract has come into force,just wait for distributing!","android":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2377}},"ios":{"alert":"Your loan contract has come into force,just wait for distributing!","extras":{"type":1,"message_id":2377}}},"options":{"apns_production":false}}
+--181009 093125: HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 09 Oct 2018 02:37:17 GMT
+Content-Type: application/json
+Content-Length: 43
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 598
+X-Rate-Limit-Reset: 59
+X-Jpush-Msgid: 63050396247294828
+X-Jpush-Timestamp: 1539052636939
+
+{"sendno":"0","msg_id":"63050396247294828"}
+--181009 093515: https://api.jpush.cn/v3/push
+--181009 093515: {"platform":"all","audience":{"alias":["691"]},"notification":{"alert":"Withdraw cash(Counter): 200.00USD","android":{"alert":"Withdraw cash(Counter): 200.00USD","extras":{"type":1,"message_id":2378}},"ios":{"alert":"Withdraw cash(Counter): 200.00USD","extras":{"type":1,"message_id":2378}}},"options":{"apns_production":false}}
+--181009 093516: HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 09 Oct 2018 02:41:07 GMT
+Content-Type: application/json
+Content-Length: 43
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 599
+X-Rate-Limit-Reset: 60
+X-Jpush-Msgid: 67553995874440659
+X-Jpush-Timestamp: 1539052867964
+
+{"sendno":"0","msg_id":"67553995874440659"}
+--181009 093516: https://api.jpush.cn/v3/push
+--181009 093516: {"platform":"all","audience":{"alias":["691"]},"notification":{"alert":"Withdraw cash(Counter): 10000.00KHR","android":{"alert":"Withdraw cash(Counter): 10000.00KHR","extras":{"type":1,"message_id":2379}},"ios":{"alert":"Withdraw cash(Counter): 10000.00KHR","extras":{"type":1,"message_id":2379}}},"options":{"apns_production":false}}
+--181009 093516: HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 09 Oct 2018 02:41:08 GMT
+Content-Type: application/json
+Content-Length: 42
+Connection: keep-alive
+X-Rate-Limit-Limit: 600
+X-Rate-Limit-Remaining: 598
+X-Rate-Limit-Reset: 59
+X-Jpush-Msgid: 2251806377310810
+X-Jpush-Timestamp: 1539052868616
+
+{"sendno":"0","msg_id":"2251806377310810"}

@@ -1,0 +1,6 @@
+--181026 153721: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategoryProductPage&member_id=518&uid=123
+Saved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategory&uid=518
+--181026 155103: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategoryProductPage&member_id=520&uid=125
+Saved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategory&uid=520

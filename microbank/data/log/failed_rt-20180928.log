@@ -1,0 +1,12 @@
+--180928 132152: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"0.00","khr_amount":"0","cashier_trading_password":"123456"},"CODE":0}
+--180928 132317: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"","khr_amount":"","cashier_trading_password":"123456"},"CODE":0}
+--180928 132418: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"0.00","khr_amount":"0","cashier_trading_password":"123456"},"CODE":0}
+--180928 132641: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"0.00","khr_amount":"0","cashier_trading_password":"123456","is_auto_disburse_one_time":1},"CODE":0}
+--180928 132708: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"0.00","khr_amount":"0","cashier_trading_password":"123456","is_auto_disburse_one_time":0},"CODE":0}
+--180928 132852: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"form_submit":"ok","grant_id":"182","member_id":"568","member_image":"f5aa09ab_7026_4ae0_b1ce_96a3dc0e2bb4.jpg","mortgage_list":null,"contract_images":"","fee_from":"0","usd_amount":"","khr_amount":"","cashier_trading_password":"123456","is_auto_disburse_one_time":0},"CODE":0}

@@ -1,0 +1,71 @@
+--180926 104716: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+FUNCTION micbank.1000407and does not exist,SOURCE-SQL:select count(*) total from (select m.*,b.type from client_member m left join ( select * from client_black where type='1' )  b  on m.uid=b.member_id  where  1=1 and m.obj_guid = 1000407and( b.type is null) group by m.uid ) z000000000000000001
+redirect to:
+--180926 151350: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=addMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=685
+--180926 170751: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.categor' at line 11,SOURCE-SQL:select count(*) total from (select cm.*,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account from member_credit_category mcc 
+            inner join client_member cm on cm.uid=mcc.member_id  left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join loan_account la on la.obj_guid=cm.obj_guid left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah left join (select * from loan_contract where state>='20')  
+            lc on lc.client_obj_guid=cm.obj_guid  where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.category_id='8') z000000000000000001
+redirect to:
+--180926 170758: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.categor' at line 11,SOURCE-SQL:select count(*) total from (select cm.*,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account from member_credit_category mcc 
+            inner join client_member cm on cm.uid=mcc.member_id  left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join loan_account la on la.obj_guid=cm.obj_guid left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah left join (select * from loan_contract where state>='20')  
+            lc on lc.client_obj_guid=cm.obj_guid  where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.category_id='8') z000000000000000001
+redirect to:
+--180926 170806: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.categor' at line 11,SOURCE-SQL:select count(*) total from (select cm.*,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account from member_credit_category mcc 
+            inner join client_member cm on cm.uid=mcc.member_id  left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join loan_account la on la.obj_guid=cm.obj_guid left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah left join (select * from loan_contract where state>='20')  
+            lc on lc.client_obj_guid=cm.obj_guid  where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.category_id='8') z000000000000000001
+redirect to:
+--180926 170813: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.categor' at line 11,SOURCE-SQL:select count(*) total from (select cm.*,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account from member_credit_category mcc 
+            inner join client_member cm on cm.uid=mcc.member_id  left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join loan_account la on la.obj_guid=cm.obj_guid left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah left join (select * from loan_contract where state>='20')  
+            lc on lc.client_obj_guid=cm.obj_guid  where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.category_id='8') z000000000000000001
+redirect to:
+--180926 170821: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.categor' at line 11,SOURCE-SQL:select count(*) total from (select cm.*,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account from member_credit_category mcc 
+            inner join client_member cm on cm.uid=mcc.member_id  left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join loan_account la on la.obj_guid=cm.obj_guid left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah left join (select * from loan_contract where state>='20')  
+            lc on lc.client_obj_guid=cm.obj_guid  where  mcc.create_time<='2018-09-26 23:59:59' and mcc.credit>0   and mcc.category_id='8') z000000000000000001
+redirect to:

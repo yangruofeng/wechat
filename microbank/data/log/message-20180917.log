@@ -1,0 +1,63 @@
+--180917 160209: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160215: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160222: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160228: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160235: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160242: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160248: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160255: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160301: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160305: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160311: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160312: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Not Implement
+redirect to:
+--180917 160315: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160320: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+Not Implement
+redirect to:
+--180917 160329: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--180917 160529: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfClientChangeTradingPassword&uid=1
+Failed To Get Task : You can\'t deal with new task before finish the suspended task.
+redirect to:
+--180917 163003: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordDetail&form_submit=ok&uid=1&remark=&form_submit=ok&uid=1&check_result=1
+No Task Found!
+redirect to:
+--180917 163350: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordDetail&form_submit=ok&uid=1&check_result=1&remark=&form_submit=ok
+No Task Found!
+redirect to:
+--180917 163433: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordDetail&form_submit=ok&uid=1&check_result=1&remark=&form_submit=ok
+No Task Found!
+redirect to:
+--180917 164927: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordDetail&form_submit=ok&uid=1&check_result=-1&remark=reject&form_submit=ok
+Success.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex
+--180917 165425: /microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordDetail&form_submit=ok&uid=2&check_result=1&remark=ok&form_submit=ok
+Success.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=operator&op=clientChangeTradingPasswordIndex

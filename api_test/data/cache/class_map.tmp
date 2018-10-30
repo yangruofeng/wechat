@@ -1,0 +1,4 @@
+<?php
+$class_map=array (
+  'docControl' => 'api_test\\desktop/control/doc.php',
+); /*

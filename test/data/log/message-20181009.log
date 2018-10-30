@@ -1,0 +1,12 @@
+--181009 130715: /microbank_tim/test/desktop/?act=test_mysql
+Tpl ERROR:templates/test_mysql/index.php is not exists
+redirect to:
+--181009 132944: /microbank_tim/test/desktop/?act=test_mysql&op=insertDataByTransaction
+success
+redirect to:
+--181009 133401: /microbank_tim/test/desktop/?act=test_mysql&op=insertDataByTransaction
+success
+redirect to:
+--181009 134320: /microbank_tim/test/desktop/?act=test_mysql&op=updateData
+success
+redirect to:

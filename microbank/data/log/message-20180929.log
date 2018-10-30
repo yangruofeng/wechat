@@ -1,0 +1,33 @@
+--180929 100328: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfNewClient&uid=691
+Successful got the client
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+--180929 100625: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=submitClientNewIdentity
+Save Successful!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 100722: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberRequest
+Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 100915: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=submitNewAssetItem
+success
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 101003: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=submitAssetEvaluate
+Save Successful!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=assetItemDetail&asset_id=913
+--180929 101316: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=addMemberSalaryIncome
+Add successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 101535: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberBranch
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 101644: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCo
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=691
+--180929 101818: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=submitAssetEvaluate
+Save Successful!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=assetItemDetail&asset_id=913
+--180929 105029: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=commitCreditApplication
+Approved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=approveCreditApplication
+--180929 105107: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=submitVoteCreditResult
+Vote Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=userVote

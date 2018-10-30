@@ -1,0 +1,285 @@
+* {
+    outline: none !important;
+}
+
+ul {
+    list-style: none;
+}
+
+html, body {
+    background-color: #f1f1f1;
+}
+
+body {
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif;
+  color: #000;
+}
+
+input, button, select, textarea {
+    outline: none;
+}
+
+.aui-input, input[type="text"], input[type="password"], input[type="search"],
+input[type="email"], input[type="tel"], input[type="url"], input[type="date"],
+input[type="datetime-local"], input[type="time"], input[type="number"], select, textarea {
+  font-size: .7rem;
+}
+
+img {
+  width: auto;
+  display: initial;
+}
+
+p {
+  color: #333;
+}
+.aui-list:before, .aui-list:after {
+  height: 0;
+}
+.clearfix::after {
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.custom-btn {
+  height: 2.2rem;
+  line-height: 1rem;
+  font-size: .8rem;
+}
+
+.mt03rem {
+  margin-top: .3rem;
+}
+
+.textalignright {
+  text-align: right;
+}
+
+.color949494 {
+  color: #949494;
+}
+
+.color5cb85c {
+  color: #5cb85c;
+}
+.color333 {
+  color: #333;
+}
+.color9ea09e {
+  color: #9ea09e;
+}
+.colord83e00 {
+  color: #d83e00;
+}
+
+.color66165d {
+  color: #66165d;
+}
+
+.bg66165d {
+  background-color: #66165d!important;
+}
+
+.custom-btn-purple {
+  background-color: #66165d!important;
+}
+.custom-btn-purple:active {
+  background-color: #5d0f54!important;
+}
+
+.data-loading {
+  text-align: center;
+  padding: .5rem 0;
+}
+.data-loading img {
+  width: 1.5rem;
+}
+.no-record {
+  text-align: center;
+  font-size: .7rem;
+  padding: .5rem 0;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+  .home-model-title .title::after  {
+  	-webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .profile-model-title .title::after  {
+  	-webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .cert-list .item::after  {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .cert-list .item:nth-child(4n)::before {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .cerification-wrap .id-cert-form .label::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .calculator-form .label::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .credit-loan-form .label::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .insurance-ul .aui-list-item::before {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .change-pwd-form .label::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .product-detail-wrap .table .title::before {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .product-detail-wrap .table .title::after {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .product-detail-wrap .table .title .item::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .product-detail-wrap .table .content .item::after {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .product-detail-wrap .table .content .row::after {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .home-model-title .title::after {
+  	-webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .profile-model-title .title::after {
+  	-webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .cert-list .item::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .cert-list .item:nth-child(4n)::before {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .cerification-wrap .id-cert-form .label::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .calculator-form .label::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .credit-loan-form .label::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .insurance-ul .aui-list-item::before {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .change-pwd-form .label::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .product-detail-wrap .table .title::before {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .product-detail-wrap .table .title::after {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+  .product-detail-wrap .table .title .item::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .product-detail-wrap .table .content .item::after {
+    -webkit-transform: scaleX(0.5);
+    transform: scaleX(0.5);
+  }
+  .product-detail-wrap .table .content .row::after {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+  .home-model-title .title::after {
+  	-webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+  .profile-model-title .title::after {
+  	-webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+  .cert-list .item::after  {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .cert-list .item:nth-child(4n)::before {
+    -webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+  .cerification-wrap .id-cert-form .label::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .calculator-form .label::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .credit-loan-form .label::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .insurance-ul .aui-list-item::before {
+    -webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+  .change-pwd-form .label::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .product-detail-wrap .table .title::before {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .product-detail-wrap .table .title::after {
+    -webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+  .product-detail-wrap .table .title .item::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .product-detail-wrap .table .content .item::after {
+    -webkit-transform: scaleX(0.333);
+    transform: scaleX(0.333);
+  }
+  .product-detail-wrap .table .content .row::after {
+    -webkit-transform: scaleY(0.333);
+    transform: scaleY(0.333);
+  }
+}

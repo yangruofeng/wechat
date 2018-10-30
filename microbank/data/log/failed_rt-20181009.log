@@ -1,0 +1,8 @@
+--181009 092347: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Please Take photo for <kbd>Contract Photo<\/kbd>","DATA":null,"CODE":0}
+--181009 092432: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Please input client trading password.","DATA":null,"CODE":0}
+--181009 093441: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanWithdrawConfirm&yoajax=1
+{"STS":false,"MSG":"Exceed branch day limit:500.00","DATA":null,"CODE":11103}
+--181009 093450: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanWithdrawConfirm&yoajax=1
+{"STS":false,"MSG":"Exceed branch day limit:500.00","DATA":null,"CODE":11103}

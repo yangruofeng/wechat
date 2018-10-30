@@ -1,0 +1,34 @@
+.validate-checktip {
+  color: red;
+  display: block;
+  margin-top: 5px;
+  font-size: 12px;
+}
+.passwordStrength {
+  font-size: 12px;
+}
+.passwordStrength b, .passwordStrength span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 16px;
+  line-height: 18px\9;
+  height: 16px;
+}
+.passwordStrength b {
+  font-weight: normal;
+  margin: 0 8px;
+  color: #f27f02;
+}
+.passwordStrength span {
+  width: 45px;
+  text-align: center;
+  background-color: #d0d0d0;
+  border-right: 1px solid #fff;
+}
+.passwordStrength .bgStrength {
+  color: #fff;
+  background-color: #71b83d;
+}
+.passwordStrength .last {
+  border-right: none;
+}

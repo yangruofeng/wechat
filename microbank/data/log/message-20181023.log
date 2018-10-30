@@ -1,0 +1,9 @@
+--181023 093746: /microbank_tim/microbank/backoffice/index.php?act=operator&op=showCertificationDetail&uid=8
+Invalid Id!
+redirect to:
+--181023 103719: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfCertification&uid=2109
+Failed To Get Task : You can\'t deal with new task before finish the suspended task.
+redirect to:
+--181023 105327: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificationConfirm
+Handle Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationFile&type=1

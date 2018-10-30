@@ -1,0 +1,3 @@
+--181011 123141: /microbank_tim/microbank/backoffice/index.php?act=loan&op=editCategoryPage&uid=10
+Submit Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan&op=category

@@ -1,0 +1,4 @@
+1. 添加资产时，焦点应该是在name框，不是id框
+2. 所有编辑项，如果是会直接保存的，按钮名字要用save
+3. business，添加了code后，直接选择google地图会报参数错误
+4. super-loan 为什么有total-ineterest,并且total-repayment计算错误

@@ -1,0 +1,8 @@
+--181008 132341: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanConfirm&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"biz_ids":["110","111"]},"CODE":0}
+--181008 171320: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanWithdrawConfirm&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"currency_usd":"0","currency_khr":"0"},"CODE":0}
+--181008 171515: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanWithdrawConfirm&yoajax=1
+{"STS":false,"MSG":"test","DATA":{"currency_usd":"0","currency_khr":"0","member_id":"565"},"CODE":0}
+--181008 173010: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=grantCreditOneTimeLoanWithdrawConfirm&yoajax=1
+{"STS":false,"MSG":"No input withdraw amount.","DATA":null,"CODE":1003}

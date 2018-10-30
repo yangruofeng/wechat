@@ -1,0 +1,153 @@
+--181022 085834: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=addMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=602
+--181022 085908: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=602
+--181022 090014: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=602
+--181022 103324: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=602
+--181022 105722: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberBusinessIncome
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=602
+--181022 150446: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberOperator
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=550
+--181022 152805: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberOperator
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=550
+--181022 152848: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberOperator
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=339
+--181022 152934: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberOperator
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=704
+--181022 153946: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfCertification&uid=10
+Invalid Id!
+redirect to:
+--181022 161617: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=10
+The member does not belong to you.
+redirect to:
+--181022 162623: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=10
+Not Implement
+redirect to:
+--181022 162630: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162630: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162637: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=10
+Not Implement
+redirect to:
+--181022 162644: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162651: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=10
+Not Implement
+redirect to:
+--181022 162658: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162705: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=10
+Not Implement
+redirect to:
+--181022 162712: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162716: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 162720: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=2
+Not Implement
+redirect to:
+--181022 162725: /microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationFile&type=1
+Not Implement
+redirect to:
+--181022 162729: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 162932: /microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationFile&type=1
+Not Implement
+redirect to:
+--181022 162938: /microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationFile&type=3
+Not Implement
+redirect to:
+--181022 162941: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 162944: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 162946: /microbank_tim/microbank/backoffice/index.php?act=operator&op=loanConsult
+Not Implement
+redirect to:
+--181022 162955: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163253: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163302: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163304: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 163307: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 163316: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163329: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 163338: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163340: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 163349: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 163625: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 163633: /microbank_tim/microbank/backoffice/index.php?act=operator&op=newClient
+Not Implement
+redirect to:
+--181022 170304: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=1
+Not Implement
+redirect to:
+--181022 172901: /microbank_tim/microbank/backoffice/index.php?act=operator&op=showCertificationDetail&uid=5
+Invalid Id!
+redirect to:
+--181022 173240: /microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationConfirm
+No Task Found!
+redirect to:
+--181022 173535: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificationConfirm
+Handle Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=operator&op=certificationFile&type=2
+--181022 174936: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=6
+Not Implement
+redirect to:
+--181022 174940: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=2
+Not Implement
+redirect to:
+--181022 174946: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=2
+Not Implement
+redirect to:
+--181022 174948: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=6
+Not Implement
+redirect to:
+--181022 174955: /microbank_tim/microbank/backoffice/index.php?act=operator&op=relativeCertificateFile&type=2
+Not Implement
+redirect to:
+--181022 175002: /microbank_tim/microbank/backoffice/index.php?act=operator&op=getTaskOfRelativeCertification&uid=6
+Failed To Get Task : You can\'t deal with new task before finish the suspended task.
+redirect to:

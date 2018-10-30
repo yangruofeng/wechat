@@ -1,0 +1,3 @@
+--180927 104111: {"errmsg":"syntax error, unexpected ')'","errno":4,"trace":null,"line":69,"file":"super.loan.report.class"}
+--180927 171811: {"errmsg":"Only variables should be passed by reference","errno":2048,"trace":null,"line":131,"file":"report_loan_analysis"}
+--180927 172338: {"errmsg":"syntax error, unexpected '}'","errno":4,"trace":null,"line":137,"file":"report_loan_analysis"}

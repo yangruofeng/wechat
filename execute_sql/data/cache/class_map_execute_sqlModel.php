@@ -1,0 +1,1 @@
+<?php defined('PLUTOFLAG') or exit('Access Invalid!'); return 'D:\\allics\\microbank_tim\\execute_sql/data/model/execute_sql.model.php' ?>

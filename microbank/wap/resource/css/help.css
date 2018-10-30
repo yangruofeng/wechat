@@ -1,0 +1,56 @@
+/*setting*/
+.contract-tab {
+    z-index: 1;
+}
+
+.contract-tab .aui-tab-item.aui-active {
+    color: #66165d;
+    border-bottom: 2px solid #66165d;
+}
+
+.aui-list-item .aui-list-item-text .title {
+    width: 70%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.aui-list-item .aui-list-item-text .text {
+    width: 30%;
+    font-size: 0.8rem;
+}
+
+.profile-model-title .title {
+    font-size: 0.9rem !important;
+    font-weight: 600 !important;
+    padding-bottom: .3rem;
+    position: initial!important;
+}
+
+.profile-model-title .handler {
+    width: 50%;
+    float: left;
+    padding-bottom: .3rem;
+    padding-left: 27px;
+    position: relative;
+}
+
+.profile-model-title .handler img{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 0px;
+    top: 2px;
+}
+
+.profile-model-title .handle_time {
+    width: 50%;
+    float: right;
+    text-align: right;
+    padding-bottom: .3rem;
+}
+
+.profile-model-content img {
+    max-width: 100%;
+}

@@ -1,0 +1,423 @@
+/* login */
+.login-wrap {
+  background-color: #000;
+  color: #fff;
+  padding: 0 1.375rem;
+  font-size: .7rem;
+}
+.login-logo {
+  text-align: center;
+  padding-top: 2.5rem;
+}
+.login-logo img {
+  width: 7.425rem;
+  max-width: 293px;
+}
+.login-form {
+  margin-top: 1rem;
+}
+.login-form .form-item {
+  margin-bottom: .5rem;
+  position: relative;
+}
+.login-form .icon {
+  position: absolute;
+}
+.login-form .input-account .icon {
+  width: 1.3rem;
+  top: .5rem;
+  left: 1.1rem;
+}
+.login-form .input-phone .icon {
+  width: 1.3rem;
+  top: .5rem;
+  left: 1.1rem;
+}
+.login-form .input-phone select {
+  width: 2.3rem;
+  position: absolute;
+  left: 3rem;
+  color: #fff;
+}
+.login-form .input-phone i.aui-icon-down {
+  position: absolute;
+  top: .7rem;
+  left: 4.9rem;
+  font-size: .1rem;
+}
+.login-form .input-phone input {
+  padding-left: 5.8rem;
+}
+.login-form .input-email .icon {
+  width: 1.3rem;
+  top: .5rem;
+  left: 1.1rem;
+}
+.login-form .input-pwd .icon {
+  width: 1rem;
+  top: .5rem;
+  left: 1.2rem;
+}
+.login-form input {
+  border: 1px solid #fff;
+  border-radius: 30px;
+  color: #fff;
+  padding: 0 3.125rem;
+}
+
+.login-form .login-btn {
+  margin-top: 1.3rem;
+  border-radius: 30px;
+}
+.other-oprt {
+  padding: 0 .4rem;
+  margin-top: .1rem;
+}
+.other-oprt a {
+  color: #fff;
+}
+.other-login-method {
+  margin-top: 1.4rem;
+}
+.other-login-method .title {
+  position: relative;
+  z-index: 0;
+  text-align: center;
+}
+.other-login-method .line {
+  position: absolute;
+  top: 12px;
+  z-index: -1;
+  border-top: 1px solid #fff;
+  width: 100%;
+  height: 1px;
+}
+.other-login-method span {
+  top: -14px;
+  display: inline-block;
+  background-color: #000;
+  padding: 0 5px;
+}
+.other-login-method .content {
+  text-align: center;
+}
+.other-login-method .content > div {
+  display: inline-block;
+}
+.other-login-method .content .item {
+  float: left;
+  color: #fff;
+  display: block;
+  padding: .6rem;
+}
+.other-login-method .content .item img {
+  width: 2.2rem;
+}
+.other-login-method .content .item p {
+  color: #fff;
+}
+/* verify */
+.verify-wrap {
+  padding: 1rem;
+  font-size: .7rem;
+}
+.verify-form input {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0 .5rem;
+}
+.verify-form .form-item {
+  margin-bottom: .5rem;
+  position: relative;
+}
+.verify-form .form-phone select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3.4rem;
+  height: 1.3rem;
+  padding: 0 .3rem;
+  border-right: 1px solid #ccc;
+  background-color: rgba(255,255,255,0);
+}
+.verify-form .form-phone i {
+  position: absolute;
+  top: .75rem;
+  left: 2.4rem;
+  font-size: .6rem;
+}
+.verify-form .form-phone input {
+  padding-left: 3.7rem;
+}
+.verify-form .get-verify {
+  margin-bottom: 0;
+}
+.verify-form .get-verify input {
+  padding-right: 5rem;
+}
+.verify-form .get-verify .btn-verify {
+  display: block;
+  position: absolute;
+  right: .35rem;
+  top: .35rem;
+  padding: 4px 0;
+  width: 4rem;
+  text-align: center;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+  border-radius: 4px;
+}
+.verify-form .get-verify .btn-verify.disabled {
+  color: #afabab;
+  border: 1px solid #afabab;
+}
+.verify-form .error-tip {
+  color: #cc0000;
+  margin-top: .3rem;
+  min-height: 1.6rem;
+  line-height: .7rem;
+}
+.verify-form .register-next-btn {
+  margin-top: .2rem;
+  border-radius: 5px;
+}
+.verify-form .agree-tip {
+  color: #4d4d4d;
+  font-size: .6rem;
+  margin-top: .2rem;
+}
+.verify-form .agree-tip em {
+  color: #cc0000;
+  font-style: normal;
+}
+.verify-success {
+  position: fixed;
+  left: 0;
+  top:0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.6);
+  text-align: center;
+}
+.verify-success .wrap {
+  background-color: #fff;
+  width: 80%;
+  display: inline-block;
+  border-radius: 6px;
+  margin-top: 10rem;
+}
+.verify-success .wrap .title {
+  margin: 0 1rem .5rem;
+  padding: .6rem 0;
+  font-weight: 600;
+  position: relative;
+  color: #fd7d75;
+}
+.verify-success .wrap .title::after {
+  content: '';
+  position: absolute;
+  left: 10%;
+  bottom: 0;
+  width: 80%;
+  height: 1px;
+  background-color: #fd7d75;
+  display: block;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2){
+  .verify-success .wrap .title::after {
+    -webkit-transform: scaleY(0.5);
+    transform: scaleY(0.5);
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5){
+  .verify-success .wrap .title::after  {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}
+.verify-success .count-down {
+  color: #fd7d75;
+  font-size: .6rem;
+}
+.verify-success .verify-inputs {
+  display: inline-block;
+  margin: .5rem 0;
+}
+.verify-success .verify-inputs input {
+  float: left;
+  width: 1.8rem;
+  height: 1.8rem;
+  min-height: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-right: .2rem;
+  text-align: center;
+}
+.verify-success .verify-inputs input:last-child {
+  margin-right: 0;
+}
+.verify-success .verify-inputs .active {
+  border-color:  #fd7d75;
+}
+/* register */
+.register-wrap {
+  padding: .5rem;
+  font-size: .7rem;
+}
+.register-form label {
+  position: absolute;
+  top: .6rem;
+  left: 1px;
+  height: 1.1rem;
+  line-height: 1.1rem;
+  padding: 0 .5rem;
+  width: 7rem;
+  border-right: 1px solid #ccc;
+  background-color: #fff;
+}
+.register-form input {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0 .5rem 0 7.7rem;
+}
+.register-form .input-gender select {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0 .5rem 0 7.5rem;
+}
+.register-form .input-gender i {
+  position: absolute;
+  top: .75rem;
+  right: .4rem;
+  font-size: .6rem;
+}
+.register-form .input-date i {
+  position: absolute;
+  right: .4rem;
+  top: .35rem;
+  font-size: 1rem;
+}
+.register-form .form-item {
+  margin-bottom: .2rem;
+  position: relative;
+}
+.register-form .register-next-btn {
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+.register-form .agree-tip {
+  color: #4d4d4d;
+  font-size: .6rem;
+  margin-top: .2rem;
+}
+.register-form .agree-tip em {
+  color: #cc0000;
+  font-style: normal;
+}
+.register-success {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.5);
+}
+.register-success .content {
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  padding-bottom: 1rem;
+  margin: 9rem 2.5rem;
+}
+.register-success .content img {
+  width: 5rem;
+  margin-top: 1rem;
+}
+.register-success .content .title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+.register-success .content .tip {
+  color: #e67878;
+}
+/* forgot password */
+.forgot-pwd-wrap {
+  padding: 1rem;
+  font-size: .7rem;
+}
+.forgot-pwd-form input {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0 .5rem;
+}
+.forgot-pwd-form .form-item {
+  margin-bottom: .5rem;
+  position: relative;
+}
+.forgot-pwd-form .form-phone select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3.4rem;
+  height: 1.3rem;
+  padding: 0 .3rem;
+  border-right: 1px solid #ccc;
+  background-color: rgba(255,255,255,0);
+}
+.forgot-pwd-form .form-phone i {
+  position: absolute;
+  top: .75rem;
+  left: 2.4rem;
+  font-size: .6rem;
+}
+.forgot-pwd-form .form-phone input {
+  padding-left: 3.7rem;
+}
+.forgot-pwd-form .get-verify input {
+  padding-right: 5rem;
+}
+.forgot-pwd-form .get-verify .btn-verify {
+  display: block;
+  position: absolute;
+  right: .35rem;
+  top: .35rem;
+  padding: 4px 0;
+  width: 4rem;
+  text-align: center;
+  color: #cc0000;
+  border: 1px solid #cc0000;
+  border-radius: 4px;
+}
+.forgot-pwd-form .error-tip {
+  color: #cc0000;
+  margin-top: .3rem;
+  min-height: 1.6rem;
+  line-height: .7rem;
+}
+.forgot-pwd-form .register-next-btn {
+  margin-top: .2rem;
+  border-radius: 5px;
+}
+.forgot-pwd-form .agree-tip {
+  color: #4d4d4d;
+  font-size: .6rem;
+  margin-top: .2rem;
+}
+.forgot-pwd-form .agree-tip em {
+  color: #cc0000;
+  font-style: normal;
+}

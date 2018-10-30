@@ -1,0 +1,6 @@
+--180917 142416: /microbank_tim/microbank/api/v2/member.change.trading.password.request.php?member_id=1&new_password=e10adc3949ba59abbe56e057f20f883e&sign=eeafb716f93fa090d7716749a6eefa72&member_image=&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}
+--180917 142440: /microbank_tim/microbank/api/v2/member.change.trading.password.request.php?member_id=1&new_password=e10adc3949ba59abbe56e057f20f883e&sign=eeafb716f93fa090d7716749a6eefa72&member_image=&token=
+{"STS":false,"MSG":"No upload member image.","DATA":null,"CODE":1003}
+--180917 151610: /microbank_tim/microbank/api/v2/get.member.last.trading.password.change.request.php?member_id=1&token=
+{"STS":false,"MSG":"Invalid token","DATA":null,"CODE":1010}

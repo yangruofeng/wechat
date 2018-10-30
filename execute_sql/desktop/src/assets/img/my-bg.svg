@@ -1,0 +1,19 @@
+<svg width="150" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <clipPath id="cp">
+   <rect x="0" y="0" width="150" height="150" ry="15" rx="15" id="svg_4"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_3">
+   <rect ry="15" rx="15" fill="#d70915" stroke="#000000" stroke-width="0" x="0" y="0" width="150" height="200" id="svg_1"/>
+   <circle clip-path="url(#cp)" id="svg_2" r="137.2953" cy="-50" cx="76" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#fc0d1b"/>
+  </g>
+  <g id="svg_7">
+   <circle fill="#ffff00" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="78.5" cy="85.5" r="30" id="svg_5" stroke="#000000"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="20" id="svg_6" y="93.5" x="79" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">OPEN</text>
+  </g>
+ </g>
+</svg>

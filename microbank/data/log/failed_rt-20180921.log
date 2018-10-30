@@ -1,0 +1,6 @@
+--180921 140540: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Please Take photo for <kbd>Contract Photo<\/kbd>","DATA":null,"CODE":0}
+--180921 153152: /microbank_tim/microbank/counter/index.php?_c=member_credit&_m=ajaxConfirmSignAuthoriseContract&yoajax=1
+{"STS":false,"MSG":"Receive cash not enough for: <kbd>10USD<\/kbd>","DATA":null,"CODE":11059}
+--180921 154547: /microbank_tim/microbank/api/v1/login.php
+{"STS":false,"MSG":"Password error!","DATA":null,"CODE":0}

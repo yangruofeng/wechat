@@ -1,0 +1,30 @@
+--180921 134310: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberRequest
+Successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 134356: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategoryProductPage&member_id=681&uid=368
+Saved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCreditCategory&uid=681
+--180921 134510: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=addMemberSalaryIncome
+Add successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 134738: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=submitClientNewIdentity
+Save Successful!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 134805: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberWorkTypeAndIndustry
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 134825: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberCo
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 134842: /microbank_tim/microbank/backoffice/index.php?act=web_credit&op=editMemberOperator
+Edit successful.
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=web_credit&op=creditClient&uid=681
+--180921 135647: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=commitCreditApplication
+Approved Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=approveCreditApplication
+--180921 135726: /microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=submitVoteCreditResult
+Vote Success!
+redirect to:http://localhost/microbank_tim/microbank/backoffice/index.php?act=loan_committee&op=userVote
+--180921 154611: /microbank_tim/microbank/backoffice/index.php?act=dev&op=global
+Save Successful!
+redirect to:

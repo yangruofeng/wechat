@@ -1,0 +1,76 @@
+--180927 124039: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Unknown column 'cm.member_id' in 'group statement',SOURCE-SQL:select count(*) total from (select cm.*,cm.uid member_id,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account,lc.apply_amount,lc.state contract_state,lc.end_date 
+            from loan_contract lc 
+            INNER join member_credit_category mcc on mcc.uid=lc.member_credit_category_id 
+            inner join client_member cm on cm.obj_guid=lc.client_obj_guid  
+            left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah on mah.member_id=cm.uid  
+            where lc.state>='20'   and mcc.category_id='8' group by cm.member_id,lc.uid ) z000000000000000001
+redirect to:
+--180927 124048: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Unknown column 'cm.member_id' in 'group statement',SOURCE-SQL:select count(*) total from (select cm.*,cm.uid member_id,mcc.credit category_credit,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_adress,mah.handler_account ace_account,lc.apply_amount,lc.state contract_state,lc.end_date 
+            from loan_contract lc 
+            INNER join member_credit_category mcc on mcc.uid=lc.member_credit_category_id 
+            inner join client_member cm on cm.obj_guid=lc.client_obj_guid  
+            left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah on mah.member_id=cm.uid  
+            where lc.state>='20'   and mcc.category_id='8' group by cm.member_id,lc.uid ) z000000000000000001
+redirect to:
+--180927 144753: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Unknown column 'mc.credit_usd' in 'field list',SOURCE-SQL:select cm.*,cm.uid member_id,mcc.credit,mc.credit_usd,mc.credit_khr,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_address,
+            mco.officer_name,mah.handler_account ace_account,lc.apply_amount,lc.state contract_state,lc.end_date,lr.contract_repayment_amount 
+            from loan_contract lc 
+            INNER join member_credit_category mcc on mcc.uid=lc.member_credit_category_id 
+            inner join client_member cm on cm.obj_guid=lc.client_obj_guid  
+            left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah on mah.member_id=cm.uid  
+            left join (select contract_id,sum(amount) contract_repayment_amount from loan_repayment where state='100' group by contract_id ) 
+            lr on lc.uid=lr.contract_id
+            where lc.client_obj_guid in (0,1000307,1000339,1000372,1000445,1000527,1000550,1000555,1000558,1000559,1000568,1000594,1000601,1000648,1000660,1000685)  and mcc.category_id='8' and lc.currency='USD' group by cm.uid,lc.uid  order by lc.start_date 
+redirect to:
+--180927 144800: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Unknown column 'mc.credit_usd' in 'field list',SOURCE-SQL:select cm.*,cm.uid member_id,mcc.credit,mc.credit_usd,mc.credit_khr,mc.grant_time credit_grant_time,sb.branch_name,address.full_text client_address,
+            mco.officer_name,mah.handler_account ace_account,lc.apply_amount,lc.state contract_state,lc.end_date,lr.contract_repayment_amount 
+            from loan_contract lc 
+            INNER join member_credit_category mcc on mcc.uid=lc.member_credit_category_id 
+            inner join client_member cm on cm.obj_guid=lc.client_obj_guid  
+            left join site_branch sb on sb.uid=cm.branch_id 
+            left join member_credit mc on mc.member_id=cm.uid
+            left join ( select * from member_follow_officer where is_active=1 and officer_type=0 group by member_id 
+            order by is_primary desc ) mco on mco.member_id=cm.uid 
+            left join (select * from common_address where address_category='residence_place' 
+            and state=1 order by create_time desc ) address on address.obj_guid=cm.obj_guid
+            left join (select * from member_account_handler where 
+            handler_type='21' and is_verified=1 and state='10' 
+            order by update_time ) mah on mah.member_id=cm.uid  
+            left join (select contract_id,sum(amount) contract_repayment_amount from loan_repayment where state='100' group by contract_id ) 
+            lr on lc.uid=lr.contract_id
+            where lc.client_obj_guid in (0,1000307,1000339,1000372,1000445,1000527,1000550,1000555,1000558,1000559,1000568,1000594,1000601,1000648,1000660,1000685)  and mcc.category_id='8' and lc.currency='USD' group by cm.uid,lc.uid  order by lc.start_date 
+redirect to:
+--180927 155302: /microbank_tim/microbank/backoffice/index.php?_c=base&_m=getTpl&yoajax=1
+Unknown column 'sb.uid' in 'where clause',SOURCE-SQL:select count(*) total from (select lc.client_obj_guid from loan_contract lc INNER join member_credit_category mcc on mcc.uid=lc.member_credit_category_id  
+        inner join client_member cm on cm.obj_guid=lc.client_obj_guid  
+        where lc.state>='20' and lc.start_date<='2018-09-27 23:59:59'  and mcc.category_id='8' and sb.uid='20' and lc.currency='USD' and (cm.obj_guid='yang' or cm.display_name like '%yang%'
+             or cm.phone_id like '%yang%')  group by lc.client_obj_guid ) z000000000000000001
+redirect to:

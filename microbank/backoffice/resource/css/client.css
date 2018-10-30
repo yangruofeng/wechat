@@ -1,0 +1,114 @@
+.branch-assets-wrap .content {
+    padding: 15px;
+}
+.co-assets-wrap .panel-tab {
+    padding: 15px;
+}
+.co-assets-wrap .tab-content {
+    padding: 10px;
+}
+.track-wrap .title {
+    background: #e6e6e6;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 6px 12px;
+}
+.track-wrap .title a {
+    font-size: 12px;
+    margin-left: 15px;
+    color: dodgerblue;
+}
+.track-wrap .title a:hover {
+    text-decoration: none;
+    color: #057bec;
+}
+.track-wrap .track-content {
+    padding: 20px;
+}
+.track-wrap .track-item {
+    position: relative;
+    font-size: 13px;
+    padding: 9px 0 0 15px;
+    color: #333;
+    border-left: 1px solid #d9d9d9;
+}
+.track-wrap .track-item .node-icon {
+    position: absolute;
+    left: -6px;
+    top: 50%;
+    width: 11px;
+    height: 11px;
+    background: url(../image/order-icons.png) -21px -72px #fff no-repeat;
+}
+.track-wrap .track-item .node-icon {
+    top: 15px;
+}
+.track-wrap .track-item .time {
+    margin-right: 25px;
+}
+.track-wrap .track-item .coord_x {
+    margin-right: 15px;
+}
+.track-wrap .track-item .coord_y {
+    margin-right: 25px;
+}
+.track-wrap .track-item em {
+    margin-right: 3px;
+    font-style: normal;
+    font-weight: 500;
+}
+.block-model {
+    border: 1px solid #d5d5d5;
+}
+.block-model .ibox-title {
+    color: #d6ae40;
+    background-color: #F6F6F6;
+    padding: 12px 10px 0px;
+    border-bottom: 1px solid #d5d5d5;
+    font-weight: 100;
+    min-height: 38px;
+}
+.block-model .ibox-title i {
+    margin-right: 5px;
+}
+.block-model .content {
+    width: 100%;
+    padding: 20px 15px 20px;
+    background-color: #FFF;
+    overflow: hidden;
+}
+.block-model .search-group .phone {
+    margin-left: -1px;
+}
+.block-model .search-group .input-group-btn:last-child > .btn {
+    margin-left: -2px;
+}
+.search-other {
+    padding: 10px 5px;
+}
+.search-other img {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 10px;
+}
+.margin-large-left {
+    margin-left: 15px;
+}
+.account-head img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.setting-handle {
+    margin-top: 15px;;
+}
+.no-search {
+    text-align: center;
+    color: #999;
+}
+.setting-info .item label {
+    width: 120px;
+    text-align: right;
+    margin-right: 15px;
+}
