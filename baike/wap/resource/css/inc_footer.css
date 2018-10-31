@@ -1,0 +1,58 @@
+.bottom-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 99;
+  width: 100%;
+  background-color: #fff;
+  color: #333;
+  font-size: .6rem;
+}
+.footer-nav li {
+  width: 33.33333%;
+  float: left;
+  text-align: center;
+  line-height: .6rem;
+  padding: .3rem 0;
+}
+.footer-nav li.active {
+  color: #66165d;
+}
+.footer-nav li p {
+  height: 1.2rem;
+}
+.footer-nav li.home p {
+  background: url(../image/main_rb_home.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.home.active p {
+  background: url(../image/main_rb_home_press.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.request p {
+  background: url(../image/main_rb_task.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.request.active p {
+  background: url(../image/main_rb_task_press.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.client p {
+  background: url(../image/main_rb_client.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.client.active p {
+  background: url(../image/main_rb_client_press.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.account p {
+  background: url(../image/main_rb_account.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li.account.active p {
+  background: url(../image/main_rb_account_press.png?v=2) no-repeat center;
+  background-size: 1.2rem;
+}
+.footer-nav li span {
+  display: block;
+}

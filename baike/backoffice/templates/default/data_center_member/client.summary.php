@@ -1,0 +1,10 @@
+<div class="clearfix" style="margin-bottom: 15px;">
+    <div class="row-fluid">
+        <a class="btn btn-primary" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'all','title'=>'All', 'count'=>formatQuantity($client['count_client'])), false, BACK_OFFICE_SITE_URL);?>">All(<?php echo formatQuantity($client['count_client']); ?>)</a>
+            <a class="btn btn-success" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'register_today','title'=>'Register Today', 'count'=>formatQuantity($client['count_today_client'])), false, BACK_OFFICE_SITE_URL);?>">Register Today(<?php echo formatQuantity($client['count_today_client']); ?>)</a>
+            <a class="btn btn-warning" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'pending_checked','title'=>'Pending Checked', 'count'=>formatQuantity($client['count_pending_checked_client'])), false, BACK_OFFICE_SITE_URL);?>">Pending Checked(<?php echo formatQuantity($client['count_pending_checked_client']); ?>)</a>
+            <a class="btn btn-info" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'pending_verify','title'=>'Pending Verify', 'count'=>formatQuantity($client['count_pending_verify_client'])), false, BACK_OFFICE_SITE_URL);?>">Pending Verify(<?php echo formatQuantity($client['count_pending_verify_client']); ?>)</a>
+            <a class="btn btn-danger" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'locked','title'=>'Locked', 'count'=>formatQuantity($client['count_lock_client'])), false, BACK_OFFICE_SITE_URL);?>">Locked(<?php echo formatQuantity($client['count_lock_client']); ?>)</a>
+            <a class="btn btn-success" href="<?php echo getUrl('data_center_member', 'showClientListByStatePage', array('type'=>'verified','title'=>'Verified', 'count'=>formatQuantity($client['count_verify_client'])), false, BACK_OFFICE_SITE_URL);?>">Verified(<?php echo formatQuantity($client['count_verify_client']); ?>)</a>
+    </div>
+</div>

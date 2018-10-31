@@ -1,0 +1,143 @@
+.insurance-left {
+  width: 65%;
+  float: left;
+}
+.important-info .item {
+  width: 32%;
+  float: left;
+  background-color: #fff;
+  text-align: center;
+  margin-right: 2%;
+}
+.important-info .item:last-child {
+  margin-right: 0;
+}
+.important-info .item p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 10px 7px;
+  border-bottom: 1px solid #e7eaec;
+}
+.important-info .item .c {
+  font-size: 18px;
+  padding: 20px 0;
+  max-height: 65px;
+  color: #f60;
+}
+.contract-info {
+  margin-top: 20px;
+}
+.member-info {
+  margin-top: 20px;
+}
+.tab-top {
+  padding-left: 0px;
+  margin-bottom: -5px;
+}
+.tab-top li {
+  height: 30px;
+  line-height: 30px;
+  padding: 0 15px;
+  float: left;
+  text-align: center;
+}
+.tab-top li.active {
+  border: 1px solid #DDD;
+  background: #FFF;
+}
+.tab-top li a {
+  cursor: pointer;
+  text-decoration: none;
+}
+.insurance-right {
+  width: 33%;
+  float: right;
+}
+.page-2 {
+    display: none;
+}
+.insurance-wrap .ibox-title {
+  border-bottom: 1px solid #e7eaec;
+}
+
+.product-info {
+  background-color: #fff;
+  margin-top: 20px;
+}
+.beneficiary-info {
+  background-color: #fff;
+}
+.edit-info {
+  margin-top: 15px;
+}
+.page-1 > div {
+  margin-bottom: 20px;
+}
+.insurance-product-edit .ibox-title {
+  border-bottom: 1px solid #e7eaec;
+  min-height: 40px;
+  padding: 7px 10px 7px;
+}
+.insurance-product-edit .ibox-title h5 {
+  margin: 0;
+  margin-top: 5px;
+}
+.insurance-product-edit .ibox-title .custom-btn-group {
+  float: right;
+  margin-top: 7px;
+}
+.product-info .custom-btn-group {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+}
+.insurance-product-edit .ibox-title .custom-btn-group i {
+  font-size: 16px;
+  margin-left: 10px;
+}
+.insurance-product-edit .ibox-title .btn {
+  padding: 2px 12px;
+  font-size: 14px;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.insurance-product-edit .content {
+  padding: 10px;
+  background-color: #fff;
+  font-size: 14px;
+}
+.insurance-product-edit .content td {
+  font-size: 14px;
+}
+.insurance-product-edit .ibox-title .tttt {
+  text-align: right;
+}
+.other-info .wrap-left {
+  width: 49%;
+  float: left;
+}
+.other-info .wrap-left > div {
+  margin-bottom: 20px;
+}
+.wrap-left .content {
+  padding: 5px 15px 10px;
+  overflow: hidden;
+}
+.other-info .wrap-right {
+  width: 49%;
+  float: right;
+}
+.not-allowed {
+  cursor: not-allowed;
+}
+.fa-mail-reply, .fa-floppy-o {
+  display: none;
+}
+.radio-label {
+  height: 34px;
+}
+.radio-input {
+  padding-left: 0;
+}

@@ -1,0 +1,109 @@
+/* credit */
+.credit-wrap {
+  margin-bottom: 3rem;
+}
+.client-top-wrapper {
+  background: #cc0000;
+  padding: 1.2rem 0 1rem;
+  text-align: center;
+}
+.client-top-wrapper .count {
+  display: inline-block;
+  width: 5rem;
+  height: 4rem;
+  line-height: 4rem;
+  background: #fff;
+  font-size: 3rem;
+  color: #cc0000;
+  border-radius: 10px;
+}
+.client-top-wrapper .label {
+  color: #fff;
+  margin-top: .3rem;
+}
+.client-data-wrapper .color999 {
+  color: #999;
+  font-size: .6rem;
+}
+.client-data-wrapper .colorcc0000 {
+  color: #cc0000;
+}
+.client-data-wrapper .type {
+  color: #000;
+}
+.search-wrap {
+  background: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+}
+.search-wrap .content {
+  display: flex;
+}
+.search-wrap .tip {
+  font-size: .6rem;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0 .5rem;
+  color: #999;
+}
+.search-wrapper {
+  flex: 1;
+  padding-left: 1rem;
+  height: 1.8rem;
+  margin-top: .8rem;
+}
+.cancel-search {
+  font-size: .6rem;
+  color: #999;
+  padding: 0 .5rem;
+  margin-top: .8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+}
+.search-from {
+  position: relative;
+}
+.search-from input {
+  background: #F0F2F6;
+  border-radius: .8rem;
+  min-height: 1.8rem;
+  padding: 0 0 0 1.6rem;
+  font-size: .6rem;
+}
+.search-from .s-search {
+  position: absolute;
+  top: .3rem;
+  left: .5rem;
+}
+.search-from .s-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1.8rem;
+  height: 1.8rem;
+  line-height: 1.7rem;
+  text-align: center;
+}
+.search-phone input {
+  padding: 0 0 0 4.8rem;
+}
+.search-phone select {
+  position: absolute;
+  width: 2.8rem;
+  top: 0;
+  left: 1.5rem;
+  font-size: .6rem;
+  min-height: 1.8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+}
+.search-phone .aui-icon-down {
+  position: absolute;
+  top: .5rem;
+  left: 3.5rem;
+  font-size: .6rem;
+}

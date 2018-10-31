@@ -1,0 +1,1 @@
+DESKTOP UI特定使用的资源文件（js/css/images/等等）

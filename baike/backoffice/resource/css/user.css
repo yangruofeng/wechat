@@ -1,0 +1,696 @@
+/*client*/
+.client-detail-table label {
+    margin-bottom: 0;
+}
+
+.client-detail-table tr:nth-child(even) {
+    background-color: #fff !important;
+}
+
+.client-detail-table tr td:nth-child(odd) {
+    background-color: #f3f3f3;
+}
+
+.client-detail-table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+.avatar-lg {
+    width: 120px;
+}
+
+.avatar-sm {
+    width: 80px;
+    vertical-align: bottom;
+    margin-left: 10px;
+}
+
+.verify-status {
+    font-size: 12px;
+    margin-left: 5px;
+    color: #f00;
+}
+
+.verify-status.alr {
+    color: #32BC61;
+}
+
+.client-detail-wrap {
+
+}
+
+.client-detail-wrap .left-wrap {
+    width: 40%;
+    float: left;
+}
+
+.client-detail-wrap .client-info {
+    background-color: #fff;
+    padding: 20px 0 0;
+}
+
+.client-detail-wrap .client-info .avatar-wrap {
+    position: relative;
+    height: 120px;
+    border-bottom: 1px solid #e7eaec;
+}
+
+.client-detail-wrap .client-info .avatar-wrap img {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.client-detail-wrap .client-info .avatar-wrap > .info {
+    padding-left: 135px;
+    padding-top: 10px;
+}
+
+.client-detail-wrap .client-info .avatar-wrap > .info p {
+    margin-bottom: 0;
+}
+
+.client-detail-wrap .client-info .avatar-wrap > .info > .name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.client-detail-wrap .client-info .credit-info {
+    height: 100px;
+}
+
+.client-detail-wrap .client-info .credit-info .item {
+    width: 33.33333%;
+    text-align: center;
+    float: left;
+    padding: 30px 0;
+    max-height: 110px;
+}
+
+.client-detail-wrap .client-info .credit-info .arrears {
+    border-left: 1px solid #e7eaec;
+    border-right: 1px solid #e7eaec;
+}
+
+.client-detail-wrap .client-info .credit-info .item p {
+    margin-bottom: 0;
+    font-size: 20px;
+    margin-top: 5px;
+    color: #f60;
+}
+
+.client-detail-wrap .member-info {
+    background-color: #fff;
+}
+
+.client-detail-wrap .contract-wrap {
+    width: 100%;
+}
+
+.client-detail-wrap .contract-list {
+    background-color: #fff;
+}
+
+.pull-right {
+    float: right;
+}
+
+.text-muted {
+    color: #888888;
+}
+
+.client-detail-wrap .verify-wrap {
+    width: 100%;
+}
+
+.client-verify-info {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-top: 0;
+}
+
+.client-verify-info .item {
+    margin-top: 0;
+    padding: 15px;
+}
+
+.client-verify-info .item span {
+    font-size: 12px;
+    margin-left: 5px;
+    float: right;
+}
+
+.client-verify-info .item span.checked {
+    color: #32BC61;
+}
+
+.client-verify-info .item span.checking {
+    color: red;
+}
+
+.client-verify-info .item span i {
+    margin-right: 5px;
+}
+
+.wrap-right {
+    width: 59%;
+    float: right;
+}
+
+/*contract*/
+.important-info .item {
+    background-color: #fff;
+    text-align: center;
+    float: left;
+    width: 19.2%;
+    margin-right: 1%;
+
+}
+
+.important-info .item:last-child {
+    margin-right: 0;
+}
+
+.important-info .item p {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 10px 7px;
+    border-bottom: 1px solid #e7eaec;
+}
+
+.important-info .item .c {
+    font-size: 18px;
+    padding: 20px 0;
+    max-height: 65px;
+}
+
+.base-info {
+    margin-top: 15px;
+}
+
+.base-info .content {
+    padding: 0 15px;
+}
+
+.base-info .content .wrap {
+    width: 50%;
+    float: left;
+}
+
+.base-info label {
+    font-weight: 100;
+}
+
+.base-info table {
+    font-size: 12px;
+}
+
+.base-info table td {
+    padding: 5px;
+}
+
+.contract-base-info {
+    float: left;
+    width: 68%;
+    background-color: #fff;
+}
+
+.contract-base-info .content {
+    position: relative;
+}
+
+.contract-base-info .content.fold {
+    overflow: hidden;
+}
+
+.contract-base-info .content .displayall {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #d40606;
+    border-top: 1px solid #e7eaec;
+    filter: alpha(opacity=100 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) progid : DXImageTransform . Microsoft . gradient(startcolorstr = red, endcolorstr = blue, gradientType = 0);
+    -ms-filter: alpha(opacity=100 finishopacity=50 style=1 startx=0, starty=0, finishx=0, finishy=150) progid : DXImageTransform . Microsoft . gradient(startcolorstr = red, endcolorstr = blue, gradientType = 0);
+    background: #ddd;
+    background: -moz-linear-gradient(top, #ddd, rgba(255, 255, 255, 0.7));
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fff), to(rgba(231, 234, 236, 0.7)));
+    background: -o-linear-gradient(top, #ddd, rgba(255, 255, 255, 0.7));
+}
+
+.contract-base-info .content .displayall i {
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.contract-base-info .content .displayall:hover {
+    cursor: pointer;
+}
+
+.contract-base-info .hiddenall {
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #d40606;
+    border-top: 1px solid #e7eaec;
+    border-bottom: 1px solid #e7eaec;
+    background-color: #f2f2f2;
+}
+
+.contract-base-info .hiddenall i {
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.contract-base-info .hiddenall:hover {
+    cursor: pointer;
+}
+
+.product-info {
+    float: right;
+    width: 30%;
+    background-color: #fff;
+}
+
+.contract-plan {
+    margin-top: 15px;
+}
+
+.contract-plan .ibox-title h5 {
+    margin-top: 5px;
+}
+
+.base-info .ibox-title {
+    border-bottom: 1px solid #e7eaec;
+    min-height: 40px;
+}
+
+.base-info .ibox-title h5 {
+    margin-bottom: 0;
+}
+
+.loan-plan {
+    background-color: #fff;
+    width: 49%;
+    float: left;
+}
+
+.contract-plan .item {
+    padding: 15px 20px 15px 70px;
+    margin-top: 0;
+    position: relative;
+}
+
+.contract-plan .item .state-img {
+    background-image: url(../image/contract-state.png?v=1);
+    background-repeat: no-repeat;
+    background-position: -100px -390px;
+    overflow: hidden;
+    position: absolute;
+    right: 50px;
+    bottom: 0px;
+    height: 80px;
+    width: 80px;
+}
+
+.loan-plan .item .loan-done {
+    background-position: 0px -1px;
+    display: block;
+}
+
+.loan-plan .item .loan-going {
+    background-position: 0 -174px;
+    display: block;
+}
+
+.contract-plan .item .period {
+    position: absolute;
+    top: 24px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: #333;
+    background: #e6e6e6;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 50%;
+}
+
+.contract-plan .ibox-content {
+    padding: 0;
+}
+
+.loan-amount {
+    color: #333;
+    margin-bottom: 6px;
+    float: left;
+}
+
+.loan-amount em {
+    font-size: 20px;
+    font-style: normal;
+    color: #ea544a;
+}
+
+.loan-exp {
+    float: left;
+    margin-left: 5px;
+    position: relative;
+    margin-top: 9px;
+}
+
+.loan-exp > span {
+    color: #5b9fe2;
+}
+
+.loan-exp > span:hover {
+    color: #ea544a;
+}
+
+.loan-exp-wrap {
+    filter: alpha(Opacity=0);
+    opacity: 0;
+    -moz-transition: top .2s ease-in-out, opacity .2s ease-in-out;
+    -o-transition: top .2s ease-in-out, opacity .2s ease-in-out;
+    -webkit-transition: top .2s ease-in-out, opacity .2s ease-in-out;
+    transition: top .2s ease-in-out, opacity .2s ease-in-out;
+    visibility: hidden;
+    position: absolute;
+    top: 24px;
+    left: -35px;
+    padding: 7px 10px;
+    border: 1px solid #ddd;
+    background-color: #f6fcff;
+    color: #5b9fe2;
+    font-size: 12px;
+    font-family: Arial, "Hiragino Sans GB", simsun;
+}
+
+.loan-exp-hover .loan-exp-wrap {
+    filter: alpha(enabled=false);
+    opacity: 1;
+    visibility: visible;
+}
+
+.loan-exp-wrap .pos {
+    position: relative;
+}
+
+.loan-exp-table .t {
+    color: #a5a5a5;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.loan-exp-table .a {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.loan-exp-table .a .y {
+    color: #ea544a;
+}
+
+.loan-date {
+    color: #a5a5a5;
+}
+
+.repayment-plan {
+    background-color: #fff;
+    width: 49%;
+    float: right;
+}
+
+.repayment-plan .item .repayment-done {
+    background-position: 0 -86px;
+    display: block;
+}
+
+.repayment-plan .item .repayment-going {
+    background-position: 0 -263px;
+    display: block;
+}
+
+.repayment-plan .item .repayment-overdue {
+    background-position: 0 -350px;
+    display: block;
+}
+
+.color28B779 {
+    color: #28B779;
+}
+
+.colorcc0000 {
+    color: #cc0000;
+}
+
+.client-detail-wrap .account-basic p {
+    margin: 0;
+}
+
+.client-detail-wrap .account-basic {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.client-detail-wrap .account-basic .marginleft10 {
+    font-weight: 600;
+}
+
+.account-head img {
+    width: 105px;
+    height: 105px;
+    border-radius: 15px;
+}
+
+.margin-small-top {
+    margin-top: 5px;
+}
+
+.margin-large-left {
+    margin-left: 30px;
+}
+
+.margin-large-right {
+    margin-right: 30px;
+}
+
+.account-basic dd p {
+    line-height: 26px;
+    color: #000;
+}
+
+.marginleft10 {
+    margin-left: 10px;
+}
+
+.marginright10 {
+    margin-right: 10px;
+}
+
+.credit-detail {
+    margin-bottom: 20px;
+}
+
+.credit-detail .pull-left {
+    width: 40%;
+    float: left;
+    background-color: #fff;
+}
+
+.credit-detail .credit-basic {
+    border-bottom: 1px dashed #dedede;
+    padding: 16px 0 13px;
+}
+
+.credit-lan {
+    width: 150px;
+    margin-top: 45px;
+}
+
+.credit-lan .base-name {
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+.credit-lan .balance {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.fact-data {
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    float: left;
+}
+
+.fact-data-1 {
+    width: 40%;
+    text-align: center;
+}
+
+.fact-data .text-small .base-name {
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.easyPieChart {
+    display: inline-block;
+}
+
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.black-info p {
+    margin: 0;
+    padding: 10px 15px;
+}
+
+.black-info .list {
+    padding: 0 15px 10px;
+}
+
+.black-info .list span {
+    display: inline-block;
+    width: 30%;
+    color: #32BC61;
+    margin-bottom: 10px;
+}
+
+.black-info .list span.disabled {
+    color: red;
+}
+
+.black-info .list span i {
+    margin-right: 5px;
+}
+
+.black-info .list em {
+    font-style: normal;
+    color: #909090;
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+.black-info .list em:hover {
+    cursor: pointer;
+}
+
+.credit-detail .pull-right {
+    width: 59%;
+    float: right;
+}
+
+.report-basic .credit-basic {
+    width: 40%;
+    float: left;
+    background-color: #fff;
+    padding: 20px 0 18px;
+}
+
+.report-basic .basic-block {
+    width: 29%;
+    float: left;
+    margin-left: 1%;
+}
+
+.report-basic .client-info {
+    background-color: #fff;
+}
+
+.report-basic .client-info .avatar {
+    margin-top: 9px;
+    padding-left: 20px;
+}
+
+.report-basic .client-info .info {
+    padding: 6px 20px;
+}
+
+.report-basic .client-info p {
+    margin: 0;
+    line-height: 22px;
+}
+
+.report-basic .client-info .avatar img {
+    width: 80px;
+    border-radius: 4px;
+}
+
+.report-basic .time-info {
+    float: right;
+    margin-left: 0;
+    text-align: center;
+}
+
+.report-basic .repayment-time {
+    color: #fff;
+    background-color: #00aced;
+    border-color: #00aced;
+    margin-bottom: 7px;
+    padding: 8px;
+}
+
+.report-basic .break-time {
+    color: #fff;
+    background-color: #e7505a;
+    border-color: #e7505a;
+    padding: 8px;
+}
+
+.report-basic .time-info .time {
+    font-size: 40px;
+}
+
+.report-record {
+    margin-top: 20px;
+}
+
+.record-left {
+    float: left;
+    width: 49.5%;
+}
+
+.record-right {
+    float: right;
+    width: 49.5%;
+}
+
+.record-list-tab {
+    overflow-y: scroll;
+    height: 297px;
+}
+
+.record-list-tab .item:last-child {
+    border-bottom: 1px solid #e7eaec;
+}
+
+.record-list-tab .table .table-header {
+    background: none;
+}
+
+.cbc-record .ibox-title {
+    border-bottom: 1px solid #e7eaec;
+}

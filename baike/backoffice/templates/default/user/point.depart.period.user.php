@@ -1,0 +1,91 @@
+<div>
+    <table class="table table-bordered">
+        <thead>
+        <tr class="table-header">
+            <td style="width: 70px"></td>
+            <td colspan="2"><?php echo 'User Name';?></td>
+            <td colspan="2"><?php echo 'Point';?></td>
+        </tr>
+        </thead>
+        <tbody class="table-body">
+        <?php $i == 0;foreach($data['data'] as $row) {
+            ++$i;
+            $odd = $i % 2 == 1 ? 'tr_odd' : '';
+            ?>
+            <tr class="<?php echo $odd?>" user_id="<?php echo $row['uid']?>">
+                <td style="text-align: center">
+                    <i class="fa fa-plus" uid="<?php echo $row['uid']?>"></i>
+                </td>
+                <td colspan="2">
+                    <?php echo $row['user_name'] ?>
+                </td>
+                <td colspan="2" class="point-total">
+                    <?php echo ncPriceFormat($row['point']) ?>
+                </td>
+            </tr>
+
+            <tr class="point-list point-list-<?php echo $row['uid']?> define-item-title <?php echo $odd?>">
+                <td></td>
+                <td>
+                    <?php echo 'Event Type' ?>
+                </td>
+                <td>
+                    <?php echo 'Event Code' ?>
+                </td>
+                <td>
+                    <?php echo 'Point' ?>
+                </td>
+                <td>
+                    <?php echo 'Function' ?>
+                </td>
+            </tr>
+            <?php $type_new = '';foreach($row['point_list'] as $event_id => $point){?>
+                <tr class="point-list point-list-<?php echo $row['uid']?> <?php echo $odd?>">
+                    <td></td>
+                    <td>
+                        <?php
+                        if ($point['is_system']) {
+                            $type = 'System Event';
+                        } else {
+                            $type = 'Evaluation Event';
+                        };
+                        if ($type != $type_new) {
+                            echo $type;
+                        }
+                        $type_new = $type;
+                        ?>
+                    </td>
+                    <td>
+                        <?php echo $point['event_code'] ?>
+                    </td>
+                    <td class="point-<?php echo $row['uid'] . '-' . $event_id;?>">
+                        <span class="point">
+                            <?php echo ncPriceFormat($point['point']);?>
+                        </span>
+                        <span style="color: #32BC61" class="score">
+                             <?php echo ' (' . ($point['rate_score']?:'0.0') . '/5)';?>
+                        </span>
+                    </td>
+                    <td class="function">
+                        <?php if ($point['is_system']) { ?>
+                            <a class="fa-span" href="#">
+                                <i class="fa fa-address-card-o"></i>Detail
+                            </a>
+                        <?php } else { ?>
+                            <a class="fa-span" href="#" onclick="evaluation(this)" user_id="<?php echo $row['uid']?>" event_id="<?php echo $event_id?>" rate_score="<?php echo $point['rate_score']?:0; ?>">
+                                <i class="fa fa-star-o"></i>
+                                Evaluation
+                            </a>
+                        <?php } ?>
+                    </td>
+                </tr>
+            <?php }?>
+            <tr class="point-list point-list-<?php echo $row['uid']?> <?php echo $odd?>">
+                <td colspan="5"></td>
+            </tr>
+        <?php }?>
+        </tbody>
+    </table>
+</div>
+<?php include_once(template("widget/inc_content_pager"));?>
+

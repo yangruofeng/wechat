@@ -1,0 +1,303 @@
+.request-index-wrap {
+  margin-bottom: 3rem;
+}
+.request-list li:nth-child(2n){
+  background-color: #fdfde3;
+}
+.request-list .name {
+  font-size: .7rem;
+}
+.request-list .phone {
+  font-size: .6rem;
+}
+.request-list .phone img {
+  width: .8rem;
+  vertical-align: middle;
+  margin-right: .2rem;
+}
+.request-list .amount {
+  font-size: .7rem;
+  font-weight: 700;
+  color: red;
+}
+.request-list .time {
+  font-size: .6rem;
+}
+.request-detail-ul li {
+  font-size: .7rem;
+}
+.request-detail-ul li .label {
+  width: 13rem;
+}
+.request-detail-ul li .label-on {
+  text-align: right;
+  padding-right: 0;
+}
+.handle-nav {
+  background: #fff;
+  padding: 0 0 .5rem 0;
+}
+.handle-nav .nav-ul {
+  display: flex;
+}
+.nav-ul .nav-item {
+  flex: 1;
+  text-align: center;
+  font-size: 0;
+}
+.nav-ul .nav-item p {
+  font-size: 0;
+}
+.nav-ul .nav-item img {
+  width: 100%;
+}
+.nav-ul .nav-item .text {
+  color: #66165D;
+  font-size: .7rem;
+  line-height: .9rem;
+}
+.handle-wrap .reject-btn {
+  background: #d6d6d6;
+  color: #737373;
+}
+.handle-form {
+  padding: .5rem;
+}
+.handle-form textarea {
+  height: 5rem;
+  border: 1px solid #eaeaea;
+  background: #fff;
+  margin-top: .2rem;
+  border-radius: 3px;
+  padding: .3rem .5rem;
+}
+.base-form {
+  padding: .4rem;
+  font-size: .7rem;
+}
+.base-form .form-item {
+  position: relative;
+  background-color: #fff;
+  border-radius: 5px;
+  display: flex;
+}
+.base-form .form-item label {
+  position: relative;
+  padding-left: .5rem;
+  line-height: 2.2rem;
+  display: flex;
+  flex: 0 0 8rem;
+}
+.base-form .form-item input {
+  flex: 1;
+  padding-left: .5rem;
+}
+.base-form .form-select select {
+  padding: 0 .7rem 0 .5rem;
+}
+.base-form .form-select .aui-iconfont {
+  margin-top: .7rem;
+  margin-right: .7rem;
+}
+.form-item label::after {
+  width: 1px;
+  height: 60%;
+  background-color: #dddddd;
+  display: block;
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: auto;
+  bottom: 0;
+  right: 0;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.rate-tip {
+  font-size: .7rem;
+  text-align: center;
+  padding: .5rem;
+  color: #66165D;
+}
+.rate-tip span {
+  color: #2b2bf9;
+  display: inline-block;
+  padding: 0 .5rem;
+}
+.repayment-schema .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: .8rem;
+  margin-bottom: .4rem;
+}
+.repayment-schema .schema-table {
+  background-color: #fff;
+  width: 100%;
+  text-align: center;
+  font-size: .6rem;
+}
+.repayment-schema .schema-table thead td {
+  font-weight: 600;
+}
+.repayment-schema .schema-table td {
+  position: relative;
+  padding: .55rem 0;
+}
+.repayment-schema .schema-table td:after {
+  height: 1px;
+  background-color: #dddddd;
+  display: block;
+  content: '';
+  position: absolute;
+  top: auto;
+  left: 0;
+  right: auto;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+.repayment-schema .schema-tip {
+  text-align: center;
+}
+.repayment-schema .schema-tip span {
+  color: #2b2bf9;
+  display: inline-block;
+  padding: .8rem .3rem;
+}
+.verify-wrap .search-wrapper {
+  background: #cc0000;
+  padding: 1.4rem .8rem 1rem;
+}
+.verify-wrap .search-from {
+  position: relative;
+}
+.verify-wrap .search-from .s-icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.5rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+  text-align: center;
+}
+.verify-wrap .search-from .aui-icon-my {
+  font-size: .8rem;
+}
+.verify-wrap .search-from .aui-icon-phone {
+  font-size: .8rem;
+}
+.verify-wrap .search-wrapper .title {
+  text-align: center;
+  color: #fff;
+  font-size: .8rem;
+  font-weight: 700;
+  margin-bottom: .5rem;
+}
+.verify-wrap .search-from input {
+  background: #fff;
+  border-radius: 4px;
+  min-height: 1.8rem;
+  padding-left: 2.5rem;
+}
+.verify-wrap .search-from .s-search {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  padding: 0 .6rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+}
+.verify-wrap .search-phone select {
+  position: absolute;
+  top: 0;
+  left: 2.5rem;
+  width: 2.5rem;
+  min-height: 1.8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+}
+.verify-wrap .search-phone input {
+  padding-left: 5.5rem;
+}
+.verify-wrap .search-phone .aui-icon-down {
+  position: absolute;
+  top: .5rem;
+  left: 4.4rem;
+}
+.verify-wrap .search-wrapper .tip {
+  margin-top: .3rem;
+  color: #fff;
+  font-size: .6rem;
+}
+.no-search-tip {
+  padding: 1rem;
+  text-align: center;
+  color: #999;
+}
+.no-search-member {
+  display: none;
+  padding: 1rem;
+  text-align: center;
+  color: #999;
+}
+.overdue-detail-ul {
+  font-size: .6rem;
+}
+.overdue-detail-ul .label {
+  width: 14rem;
+}
+.overdue-detail-ul .label-on {
+  text-align: right;
+  padding-right: 0;
+}
+.overdue-detail-ul .total {
+  font-weight: 700;
+}
+.overdue-detail-ul .total em {
+  font-size: .5rem;
+  margin-left: .1rem;
+}
+.overdue-history-ul .title {
+  font-size: .6rem;
+  min-height: auto;
+  display: flex;
+  padding-left: 0;
+  font-weight: 700;
+}
+.overdue-history-ul .title div {
+  flex: 1;
+  text-align: center;
+  padding: .4rem 0;
+}
+.overdue-history-ul .item {
+  font-size: .6rem;
+  min-height: auto;
+  display: flex;
+  padding-left: 0;
+}
+.overdue-history-ul .item div {
+  flex: 1;
+  text-align: center;
+  padding: .4rem 0;
+}
+.loan-form .aui-list-item-inner {
+  font-size: .6rem;
+}
+.loan-form .last-item:after {
+  height: 0;
+}
+.loan-form .form-remark {
+  margin: 0;
+  margin-right: .75rem;
+  margin-bottom: .75rem;
+  border: 1px solid #66165d;
+  border-radius: .1rem;
+  padding: .2rem;
+  font-size: .6rem;
+}
