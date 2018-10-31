@@ -67,6 +67,7 @@ ini_set("max_execution_time", 60 * 3);//can be overrided.
 require_once BASE_CORE_PATH . DS . "core.php";//通用函数、__autoload,__shutDown处理
 require_once(BASE_CORE_PATH . DS . "RpcRouter.php");
 require_once(BASE_CORE_PATH . DS . "inc.DzTemplate.php");
+require_once(BASE_CORE_PATH . DS . "control.php");
 require_once(BASE_CORE_PATH . DS . "logger.php");
 require_once(BASE_CORE_PATH . DS . "language.php");
 require_once(BASE_CORE_PATH . DS . "tpl.php");
