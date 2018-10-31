@@ -24,15 +24,22 @@ class wechatControl
         $type = $weObj->getRev()->getRevType();
         switch($type) {
             case wechatClass::MSGTYPE_TEXT:
-                $weObj->text("hello, I'm wechat")->reply();
+                // 原文返回
+                $content = $weObj->getRevContent();
+                $weObj->text($content)->reply();
                 exit;
                 break;
             case wechatClass::MSGTYPE_EVENT:
                 break;
             case wechatClass::MSGTYPE_IMAGE:
+                // 原图返回
+                $image_data = $weObj->getRevPic();
+                $media_id = $image_data['mediaid'];
+                $image_url = $image_data['picurl'];
+                $weObj->image($media_id)->reply();
                 break;
             default:
-                $weObj->text("help info")->reply();
+                $weObj->text("Hello,welcome!")->reply();
         }
     }
 }

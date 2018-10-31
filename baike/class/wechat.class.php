@@ -361,6 +361,9 @@ class wechatClass
             if (is_array($log)) $log = print_r($log,true);
             return call_user_func($this->logcallback,$log);
         }*/
+        if( !is_string($log)){
+            $log = self::json_encode($log);
+        }
         Logger::record('wechat_msg',$log);
     }
 
@@ -844,7 +847,7 @@ class wechatClass
      * @param mixed $data 数据
      * @return string
      */
-    public static function data_to_xml($data) {
+    public static function data_to_xml($data,$item='',$id='') {
         $xml = '';
         foreach ($data as $key => $val) {
             is_numeric($key) && $key = "item id=\"$key\"";

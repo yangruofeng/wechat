@@ -1,1 +1,0 @@
-<?php defined('PLUTOFLAG') or exit('Access Invalid!'); return 'notfound' ?>
