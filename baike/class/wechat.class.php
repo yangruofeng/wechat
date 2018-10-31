@@ -361,9 +361,6 @@ class wechatClass
             if (is_array($log)) $log = print_r($log,true);
             return call_user_func($this->logcallback,$log);
         }*/
-        if( !is_string($log)){
-            $log = self::json_encode($log);
-        }
         Logger::record('wechat_msg',$log);
     }
 
@@ -1705,7 +1702,7 @@ class wechatClass
      * 注意：数组的键值任意，但文件名前必须加@，使用单引号以避免本地路径斜杠被转义
      * 注意：临时素材的media_id是可复用的！
      * @param array $data {"media":'@Path\filename.jpg'}
-     * @param type 类型：图片:image 语音:voice 视频:video 缩略图:thumb
+     * @param type -类型：图片:image 语音:voice 视频:video 缩略图:thumb
      * @return boolean|array
      */
     public function uploadMedia($data, $type){
@@ -1729,7 +1726,7 @@ class wechatClass
      * 获取临时素材(认证后的订阅号可用)
      * @param string $media_id 媒体文件id
      * @param boolean $is_video 是否为视频文件，默认为否
-     * @return raw data
+     * @return -raw data
      */
     public function getMedia($media_id,$is_video=false){
         if (!$this->access_token && !$this->checkAuth()) return false;
@@ -1784,7 +1781,7 @@ class wechatClass
      * 注意：上传大文件时可能需要先调用 set_time_limit(0) 避免超时
      * 注意：数组的键值任意，但文件名前必须加@，使用单引号以避免本地路径斜杠被转义
      * @param array $data {"media":'@Path\filename.jpg'}
-     * @param type 类型：图片:image 语音:voice 视频:video 缩略图:thumb
+     * @param type -类型：图片:image 语音:voice 视频:video 缩略图:thumb
      * @param boolean $is_video 是否为视频文件，默认为否
      * @param array $video_info 视频信息数组，非视频素材不需要提供 array('title'=>'视频标题','introduction'=>'描述')
      * @return boolean|array
@@ -3153,7 +3150,7 @@ class wechatClass
 
     /**
      * 创建卡券
-     * @param Array $data      卡券数据
+     * @param array $data      卡券数据
      * @return array|boolean 返回数组中card_id为卡券ID
      */
     public function createCard($data) {
@@ -3174,7 +3171,7 @@ class wechatClass
     /**
      * 更改卡券信息
      * 调用该接口更新信息后会重新送审，卡券状态变更为待审核。已被用户领取的卡券会实时更新票面信息。
-     * @param string $data
+     * @param array $data
      * @return boolean
      */
     public function updateCard($data) {
