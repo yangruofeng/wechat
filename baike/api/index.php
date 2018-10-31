@@ -17,7 +17,7 @@ adjust_timezone();
 RpcRouter::handle(array(
     'defaultClass'=>'indexControl',
     'defaultMethod'=>'indexOp',
-    'APP_NAME'=>'DEMO'
+    'APP_NAME'=>'BAIKE'
 ));
 
 $st = microtime(true)-StartTime;//系统超时记录

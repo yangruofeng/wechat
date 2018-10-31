@@ -10,9 +10,9 @@ $config['db_conf']=array(
     "db_loan"=>array(
         "db_type"=>"mysql",
         "db_host"=>"localhost",
-        "db_user"=>"root",
-        "db_pwd"=>"root",
-        "db_name"=>"bank_demo",  // micbank bank_test bank_live bank_demo
+        "db_user"=>"demo",
+        "db_pwd"=>"demo-2018",
+        "db_name"=>"wechat",
         "db_port"=>3306
     )
 );
@@ -25,17 +25,17 @@ $config['session'] = array(
 $config['debug']=true;
 $config['site_name'] = 'Microbank';
 
-$config['site_root'] = 'http://localhost/microbank_tim';
-$config['global_resource_site_url'] = "http://localhost/microbank_tim/resource";
-$config['project_site_url'] = 'http://localhost/microbank_tim/microbank';
+$config['site_root'] = 'http://localhost/wechat';
+$config['global_resource_site_url'] = "http://localhost/wechat/resource";
+$config['project_site_url'] = 'http://localhost/wechat/baike';
 
-$config['entry_api_url'] = "http://localhost/microbank_tim/microbank/api/v1";
+$config['entry_api_url'] = "http://localhost/wechat/baike/api/v1";
 
-$config['upload_site_url'] = 'http://localhost/microbank_tim/microbank/data/upload';
+$config['upload_site_url'] = 'http://localhost/wechat/baike/data/upload';
 
-$config['entry_root_url'] = 'http://localhost/microbank_tim/entry';
+$config['entry_root_url'] = 'http://localhost/wechat/entry_desktop';
 
-$config['app_download_url'] = 'http://localhost/microbank_tim/microbank/data/downloads';
+$config['app_download_url'] = 'http://localhost/wechat/baike/data/downloads';
 
 $config['asiaweiluy_api'] = array(
     'entry_url' => 'http://203.90.246.212:8791/gateway.php',

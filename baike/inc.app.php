@@ -18,7 +18,7 @@ ormYo::$log_path = _LOG_;//日志路径
 ormYo::$schema_path = _DATA_SCHEMA_ . "/";//datasource保存路径
 ormYo::$lang_a = getLangTypeList();
 
-require_once(BASE_COMMON_PATH . "/um.php");
+//require_once(BASE_COMMON_PATH . "/um.php");
 require_once(_APP_COMMON_ . "/define_enum.php");
 require_once(_APP_COMMON_ . "/root.control.php");
 //需要load的特殊放在这里

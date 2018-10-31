@@ -71,6 +71,8 @@ require_once(BASE_CORE_PATH . DS . "logger.php");
 require_once(BASE_CORE_PATH . DS . "language.php");
 require_once(BASE_CORE_PATH . DS . "tpl.php");
 require_once(BASE_CORE_PATH . DS . "thumb.php");
+require_once(BASE_CORE_PATH . DS . "Enum.php");
+
 
 define("_SITE_ROOT_", $config["site_root"]);
 define("_IMAGE_ROOT_", $config["image_root"]);

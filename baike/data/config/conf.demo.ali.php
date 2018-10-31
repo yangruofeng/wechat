@@ -10,9 +10,9 @@ $config['db_conf']=array(
     "db_loan"=>array(
         "db_type"=>"mysql",
         "db_host"=>"127.0.0.1",
-        "db_user"=>"root",
-        "db_pwd"=>"Ace-2015",
-        "db_name"=>"bank_demo",
+        "db_user"=>"demo",
+        "db_pwd"=>"demo-2018",
+        "db_name"=>"wechat",
         "db_port"=>3306
     )
 );
@@ -24,11 +24,11 @@ $config['session'] = array(
 );
 
 $config['debug']=true;
-$config['site_root'] = 'http://demo.samrithisak.com';
-$config['global_resource_site_url'] = "http://demo.samrithisak.com/resource";
-$config['project_site_url'] = "http://demo.samrithisak.com/microbank";
-$config['app_download_url'] = 'http://demo.samrithisak.com/microbank/data/downloads';
-$config['entry_api_url'] = "http://demo.samrithisak.com/microbank/api/v1";
+$config['site_root'] = 'http://www.iruofeng.cn/wechat';
+$config['global_resource_site_url'] = "http://www.iruofeng.cn/wechat/resource";
+$config['project_site_url'] = "http://www.iruofeng.cn/wechat/baike";
+$config['app_download_url'] = 'http://www.iruofeng.cn/wechat/baike/data/downloads';
+$config['entry_api_url'] = "http://www.iruofeng.cn/wechat/wechat/api/v1";
 
 
 $config['asiaweiluy_api'] = array(
